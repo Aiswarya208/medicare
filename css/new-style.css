@@ -1,0 +1,37 @@
+.header-nav{
+    padding-left: 12rem;
+}
+.offer-text{
+    color: #000000 !important;
+}
+.what-people-say{
+    padding: 80px 0 60px;
+}
+.credit{
+background: #7C2155;
+
+}
+.office-time{
+    margin-top: 0;
+}
+.info-text{
+    text-decoration: none;
+    color: #000000;
+}
+.service-sec-container{
+    max-width: 1400px;
+    margin: auto;
+}
+.drop-down{
+    z-index: 10;
+}
+.contact-text{
+    text-align: left;
+    margin: unset;
+    max-width: 400px;
+}
+@media(max-width:1600px){
+    .info-text{
+        font-size: 13px;
+    }
+}

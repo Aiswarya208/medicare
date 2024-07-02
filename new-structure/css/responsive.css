@@ -1,0 +1,4561 @@
+@media(max-width: 1900px){
+.pl-215{
+    padding-left: 130px;
+    }
+}
+@MEDIA(max-width: 1800px){
+    .quick-links ul li a{
+        font-size: 15px;
+    }
+    .quick-links ul li{
+        margin-bottom: 22px;
+    }
+    .display-time p,.footer-contact li{
+        font-size: 13px;
+    }
+    .footer-contact ul li:last-child{
+        margin-top: 35px;
+    }
+    .banner-head{
+        font-size: 88px;
+    }
+}
+@media(max-width: 1700px){
+    .banner-head {
+        font-size: 82px;
+        line-height: 81px;
+    }
+    .banner-image img{
+        width: 100%;
+    }
+    .pl-50 {
+        padding-left: 43px;
+    }
+    .service-grid{
+        padding: 72px 31px 38px 44px;
+    }
+    .pl-40 {
+        padding-left: 35px;
+    }
+    .ab-left img{
+        width: 100%;
+    }
+    .ab-left{
+        width: 635px;
+        height: 677px;
+    }
+    .about-us .wave{
+        height: 968px;
+    }
+    .service-grid h3{
+        font-size: 27px;
+    }
+    .pr-150 {
+        padding-right: 132px;
+    }
+    .mt-215 {
+        margin-top: 188px;
+    }
+    .pl-120 {
+        padding-left: 100px;
+    }
+    .pr-120{
+        padding-right: 100px;
+    }
+
+    /*------------------- service page start -------------*/
+    .grid-service{
+        width: 295px;
+    }
+    /*------------------- service page end -------------*/
+    .section-head{
+        font-size: 45px;
+    }
+
+}
+@media(max-width: 1600px){
+    .pr-65 {
+        padding-right: 55px;
+    }
+    .pl-65 {
+        padding-left: 55px;
+    }
+    .banner{
+        padding: 77px 54px 0 105px;
+    }
+    .banner-head {
+        font-size: 70px;
+        line-height: 1;
+    }
+    .banner-span{
+        font-size: 16px;
+        margin-top: 18px;
+    }
+    .banner-book-service {
+        margin: 65px 0 110px 0;
+    }
+    .note {
+        font-size: 12px;
+        margin-bottom: 31px;
+    }
+    .banner-book-service .select-items div, .banner-book-service .select-selected, .banner-book-service input, .banner-book-service input::placeholder{
+        font-size: 16px;
+    }
+    .banner-book-service input{
+        padding: 14px 22px 14px 46px;
+    }
+    .banner-book-service .select-selected {
+        padding: 14px 42px 14px 22px;
+    }
+    .select-selected:after{
+        right: 20px;
+        padding: 4px;
+    }
+    .select-selected.select-arrow-active:after, .select-selected:after{
+        top: 18px;
+    }
+    .location-icon img{
+        width: 21px;
+    }
+    .location-icon {
+        top: 15px;
+        left: 15px;
+    }
+    .book-service{
+        padding: 14px 27px !important;
+        font-size: 16px !important;
+    }
+    .banner-book-service .row [class*='col-']:nth-child(2), .banner-book-service .row [class*='col-']:nth-child(3){
+        padding-left: 0;
+    }
+    .pt-215 {
+        padding-top: 179px;
+    }
+    .pb-50 {
+        padding-bottom: 42px;
+    }
+    .pr-155 {
+        padding-right: 129px;
+    }
+    .pl-180 {
+        padding-left: 150px;
+    }
+    .head-span{
+        font-size: 13px;
+        margin-bottom: 9px;
+    }
+    .section-head{
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .pl-50 {
+        padding-left: 42px;
+    }
+    .pl-30 {
+        padding-left: 25px;
+    }
+    .pl-40 {
+        padding-left: 34px;
+    }
+    .mt-180 {
+        margin-top: 150px;
+    }
+    .service-grid {
+        padding: 67px 26px 32px 42px;
+    }
+    .service-grid h3 {
+        font-size: 25px;
+    }
+    .pl-160 {
+        padding-left: 60px;
+    }
+    .pb-115 {
+        padding-bottom: 95px;
+    }
+    .pt-120 {
+        padding-top: 100px;
+    }
+    .pb-160 {
+        padding-bottom: 133px;
+    }
+    .book-service.book-now{
+        padding: 9px 32px !important;
+    }
+    .ab-left {
+        width: 624px;
+        height: 645px;
+        padding: 225px 42px 0 29px;
+    }
+    .about-us-content {
+        width: 49%;
+    }
+    .about-us .wave {
+        height: 922px;
+    }
+    .about-us-content{
+        padding-left: 80px;
+        padding-right: 20px;
+    }
+    .testimonial-inner-container {
+        padding-left: 100px;
+        padding-right: 55px;
+    }
+    .author-img {
+        height: 46px;
+        width: 46px;
+    }
+    .author-detail {
+        padding-left: 12px;
+    }
+    .author-detail h4{
+        font-size: 16px;
+    }
+    .author-detail p{
+        margin-top: 5px;
+    }
+    .testimonial-grid{
+        padding: 30px 24px 32px 30px;
+    }
+    .testimonial-content p {
+        line-height: 1.94;
+        margin: 16px 0 24px 0;
+    }
+    .partner-logo img{
+        height: 107px;
+    }
+    .contact-strip{
+        margin-bottom: 55px;
+    }
+    .strip-icon{
+        height: 105px;
+        width: 105px;
+        left: -50px;
+        top: 50px;
+    }
+    .strip-icon img{
+        height: 32px;
+    }
+    .strip-contact{
+        padding: 47px 0 15px 122px;
+    }
+    .strip-contact p{
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .strip-contact span {
+        margin-right: 16px;
+    }
+    .strip-contact a{
+        font-size: 54px;
+    }
+    .contact-strip-inner{
+        height: 197px;
+    }
+    .strip-inner img{
+        height: 319px;
+    }
+    .icon-plus, .icon-plus-2{
+        width: 66px;
+    }
+    .beat, .beat-2, .beat-3{
+        width: 20px;
+    }
+    .mt-215 {
+        margin-top: 179px;
+    }
+    .about-us-content p {
+        margin-bottom: 30px;
+    }
+    .partner-logo-wrapper .row [class*='col-'] {
+        margin-top: 35px;
+    }
+    /*-------------- banner start ---------------*/
+    .sevicebnrSection{
+        height: calc(806px - 134px);
+    }
+    .sevicebnrSection .bannerRow .banner-content-box h2 span{
+        font-size: 18px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent p {
+        font-size: 28px;
+        line-height: normal;
+        max-width: 560px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent h2{
+        font-size: 40px;
+    }
+    /*-------------- banner end ---------------*/
+    /*---------------------------------- about start -------------------------*/
+    .one-stop-img{
+        height: 520px;
+    }
+    .pb-130 {
+        padding-bottom: 108px;
+    }
+    .pl-130{
+        padding-left: 108px;
+    }
+    .pb-215 {
+        padding-bottom: 180px;
+    }
+    .pr-90 {
+        padding-right: 75px;
+    }
+    .one-stop-solution .section-head {
+        margin-bottom: 18px;
+    }
+    .vision-mission-container{
+        padding: 56px 180px;
+        margin-bottom: 200px;
+    }
+    .mission-vision-inner [class*="col-"] {
+        padding-right: 80px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(2) {
+        padding-right: 60px;
+        padding-left: 21px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(3) {
+        padding-left: 80px;
+        padding-right: 15px;
+    }
+    .mb-25 {
+        margin-bottom: 21px;
+    }
+    .grid-content h4{
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    .core-value img{
+        height: 187px;
+    }
+    .mission img{
+        height: 190px;
+    }
+    .vision img{
+        height: 193px;
+    }
+    .pb-200 {
+        padding-bottom: 166px;
+    }
+    .pl-80 {
+        padding-left: 66px;
+    }
+    .team-grid{
+        margin-bottom: 32px;
+    }
+    .team-desc h5{
+        font-size: 16px;
+        font-weight: 500;
+    }
+    /*---------------------------------- about end ---------------------------*/
+
+    /*---------------------------------- services start ----------------------*/
+    .banner.service-banner{
+        padding-bottom: 58px;
+        padding-right: 120px;
+        margin-bottom: 25px;
+    }
+    .service-banner h1{
+        margin-bottom: 24px;
+    }
+    .service-banner-para {
+        padding-right: 62px;
+    }
+    .service-page-body {
+        padding-bottom: 212px;
+    }
+    .grid-service{
+        padding: 38px 26px 58px 26px;
+        width: 250px;
+    }
+    .grid-service img {
+        margin-bottom: 22px;
+    }
+    .home-care-pill img{
+        height: 150px;
+    }
+    .pcr-test-pill img{
+        height: 140px;
+    }
+    .laboratory-pill img{
+        height: 122px;
+    }
+    .vaccination-pill img{
+        height: 128px;
+    }
+    .service-head{
+        font-size: 22px;
+    }
+    .service-view {
+        padding-top: 66px;
+    }
+    .service-content {
+        margin-bottom: 42px;
+    }
+    .service-view .service-head{
+        font-size: 30px;
+        margin-bottom: 11px;
+    }
+    .service-view p{
+        font-size: 16px;
+    }
+    /*---------------------------------- services start ----------------------*/
+
+    /*---------------------------------- book appointment popup start ----------------*/
+    .modal-header {
+        padding: 28px 46px 28px 86px;
+    }
+    .modal-title{
+        font-size: 25px;
+    }
+    .modal-body {
+        padding: 95px 112px 0 86px;
+    }
+    .book-appoinment fieldset .form-group:first-child {
+        margin-bottom: 37px;
+    }
+    .contact-form-container label{
+        font-size: 16px;
+        margin-bottom: 14px
+    }
+    .radio-btn-box label{
+        padding: 16px 23px 16px 38px;
+        margin-right: 15px;
+        min-width: 145px;
+    }
+    .checkmark {
+        top: 17px;
+        left: 17px;
+        height: 13px;
+        width: 13px;
+    }
+    .form-group {
+        margin-bottom: 25px;
+    }
+    .book-appoinment fieldset .form-group:nth-child(3) {
+        margin-bottom: 55px;
+    }
+    .contact-form-container input, .contact-form-container textarea, .contact-form-container .select-selected{
+        font-size: 16px;
+        padding: 18px 15px;
+    }
+    input[type="datetime-local"], input[type="date"]{
+        padding-left: 48px;
+    }
+    .select-items div, .select-selected{
+        font-size: 16px;
+    }
+    .modal-content{
+        min-height: 735px;
+    }
+    .book-appoinment .modal-dialog {
+        max-width: 833px;
+    }
+    /*---------------------------------- book appointment popup end ----------------*/
+
+    /*--------------------------------- patient details popup start ----------------*/
+    .patient-details .modal-body {
+        padding: 25px 81px 50px 118px;
+    }
+    .label-span{
+        font-size: 13px;
+        margin-bottom: 13px;
+    }
+    .contact-form-container input::placeholder, .form-container textarea::placeholder{
+        font-size: 16px;
+    }
+    .form-revision{
+        padding: 56px 62px;
+    }
+    .revision-grid{
+        padding-bottom: 18px;
+    }
+    .revision-grid img {
+        margin-bottom: 25px;
+    }
+    .revision-grid p{
+        font-size: 18px;
+    }
+    .form-revision .revision-grid:nth-child(2) {
+        padding-top: 57px;
+    }
+    .form-revision .revision-grid:nth-child(3) {
+        padding-top: 34px;
+    }
+    .form-revision .revision-grid:nth-child(4) {
+        padding-top: 25px;
+    }
+    .revision-grid span{
+        font-size: 16px;
+        margin-bottom: 13px;
+    }
+    .revision-grid a{
+        font-size: 13px;
+    }
+    .form-revision .revision-grid:nth-child(4) p {
+        padding-bottom: 18px;
+        line-height: 21px;
+    }
+    .patient-details .modal-xl {
+        max-width: 90%;
+    }
+    /*--------------------------------- patient details popup end ----------------*/
+
+    /*--------------------------------- book-success popup start ----------------*/
+    .book-success .modal-xl {
+        max-width: 1375px;
+    }
+    .book-success img{
+        height: 241px;
+    }
+    .book-success h5 {
+        margin: 62px 0;
+        font-size: 40px;
+    }
+    /*--------------------------------- book-success popup end ----------------*/
+
+    /*--------------------------------- testimonial start ---------------------*/
+    .testimonial-page {
+        padding-top: 120px;
+    }
+    .pr-225 {
+        padding-right: 188px;
+    }
+    .testimonial-grid.active {
+        padding-left: 40px;
+    }
+    .author-img img{
+        height: 100%;
+        width: 100%;
+    }
+    .author-section{
+        padding-bottom: 11px;
+    }
+    .testimonial-container {
+        padding: 70px 0 191px 0;
+    }
+    .testimonial-container .testimonial-grid {
+        margin-top: 25px;
+    }
+    .testimonial-container .icon-plus{
+        right: -8rem;
+    }
+    .testimonial-container .beat{
+        right: -10rem;
+    }
+    /*--------------------------------- testimonial end ---------------------*/
+
+    /*--------------------------------- contact page start -------------------*/
+    .contact-page .banner{
+        padding: 98px 138px 0 98px;
+        height: 885px;
+    }
+    address {
+        margin: 25px 0 92px 0;
+    }
+    address li {
+        padding-left: 28px;
+        margin-bottom: 14px;
+    }
+    .contact-main-img{
+        width: 100%;
+    }
+    .contact-form-container {
+        padding-top: 21px;
+    }
+    .contact-form-container textarea {
+        height: 145px;
+    }
+    .send-btn{
+        margin-top: 18px;
+    }
+    /*--------------------------------- contact page end -------------------*/
+
+    /*---------------------------------- footer start ------------------------*/
+    .footer-top {
+        padding: 45px 57px 32px 57px;
+    }
+    .footer-logo {
+        padding-right: 59px;
+    }
+    .quick-links ul li a {
+        font-size: 13px;
+    }
+    .quick-links ul li {
+        margin-bottom: 21px;
+    }
+    .office-time{
+        margin-top: 21px;
+        padding-left: 25px;
+    }
+    .display-time p, .footer-contact li {
+        font-size: 12px;
+    }
+    .quick-links ul:first-child {
+        margin-right: 58px;
+    }
+    .pl-215 {
+        padding-left: 90px;
+    }
+    .footer-logo p{
+        font-size: 13px;
+    }
+    .credit{
+        padding: 20px 250px 24px 116px;
+    }
+    .ftr-contact{
+        padding: 14px 37px !important;
+    }
+    /*---------------------------------- footer end --------------------------*/
+
+    /*--------------------------------- blog start ---------------------------*/
+    .thumbnail-img{
+        height: calc(270px - 45px);
+    }
+    .blog-date p, .blog-readmore{
+        font-size: calc(16px - 2px);
+    }
+    .blog-title h3{
+        font-size: calc(24px - 4px);
+    }
+    .blog-readmore{
+        padding-top: calc(20px - 4px);
+    }
+    .blog-page{
+        padding-top: calc(70px - 10px);
+        padding-bottom: calc(60px - 10px);
+    }
+    /*--------------------------------- blog end -----------------------------*/
+
+    /*--------------------------------- single blog start --------------------*/
+    .blog-head h1{
+        font-size: calc(40px - 6px);
+    }
+    .feature-img img{
+        height: calc(600px - 100px);
+    }
+    .single-content {
+        padding: calc(20px - 2px) 0 calc(40px - 6px) 0;
+    }
+    .single-content h2, .single-content h3, .single-content h4, .single-content h5{
+        font-size: calc(32px - 5px);
+        margin: calc(20px - 2px) 0;
+    }
+    .single-content p{
+        margin-bottom: calc(20px - 2px);
+    }
+    .single-img{
+        max-height: calc(450px - 75px);
+        margin: calc(30px - 5px) 0;
+    }
+    .recent-post h3 {
+        font-size: calc(26px - 4px);
+        margin-bottom: calc(20px - 2px);
+    }
+    .recent-post {
+        padding-left: calc(100px - 15px);
+        margin-top: calc(40px - 6px);
+    }
+    .recent-thumbnail{
+        width: calc(90px - 15px);
+        height: calc(90px - 15px);
+    }
+    .recent-post-head h4{
+        font-size: calc(18px - 3px);
+    }
+    .category{
+        margin-top: calc(36px - 6px);
+    }
+    .category ul li a{
+        padding: 8px 13px;
+        font-size: 13px;
+    }
+    .tags h5{
+        font-size: 15px;
+    }
+    .tags ul li{
+        font-size: 14px;
+    }
+    .tags ul{
+        padding-left: 50px;
+    }
+    /*--------------------------------- single blog end ----------------------*/
+
+    /*======================== iv landing page start ===================*/
+    .sevicebnrSection.iv-banner .bannerRow .banner-content-box h2 span img{
+        width: 42px;
+    }
+    .sevicebnrSection.SevicebannerSection.iv-banner h2{
+        padding-left: 115px;
+    }
+    .sevicebnrSection.iv-banner .bannerRow .bannerContent p{
+        font-size: 19px;
+        line-height: 1.5;
+    }
+    .iv-alternate-wrapper{
+        padding: calc(120px - 20px) 0 0 0;
+    }
+    .content-grid{
+        padding: calc(100px - 15px) calc(120px - 20px);
+    }
+    .content-grid p{
+        font-size: 15px;
+    }
+    .design{
+        padding: calc(120px - 20px) 0; 
+    }
+    .design-grid-img {
+        margin-bottom: calc(30px - 5px);
+    }
+    .design-grid-img img{
+        width: calc(180px - 30px);
+    }
+    .design-grid-desc h4{
+        font-size: calc(20px - 2px);
+    }
+    .design-grid-desc p{
+        font-size: 15px;
+    }
+    .best-uses-container {
+        padding: calc(90px - 15px) 0 0 0;
+    }
+    .best-use-points{
+        font-size: calc(20px - 2px);
+    }
+    .iv-drip{
+        padding: calc(50px - 8px) calc(50px - 8px);
+    }
+    .iv-drip h3{
+        font-size: calc(36px - 6px);
+    }
+    .iv-drip-wraper {
+        padding-top: calc(56px - 10px);
+    }
+    .drip-item-num{
+        font-size: calc(42px - 7px);
+    }
+    .drip-item-desc h4{
+        font-size: calc(18px - 2px);
+    }
+    .iv-drip-wraper .row [class*="col-"]:first-child .drip-item {
+        padding-right: 15px;
+    }
+    .iv-drip-wraper .row [class*="col-"]:last-child .drip-item {
+        padding-left: 20px;
+    }
+    .iv-drip-wraper .row [class*='col-'] {
+        margin-bottom: calc(30px - 5px);
+    }
+
+    /*======================== iv landing page end ===================*/
+
+    /*======================= tab package start ==========================*/
+    .tab-package {
+        padding: calc(80px - 13px) 0 0 0;
+    }
+    .tab-package-wrapper {
+        margin-top: calc(50px - 8px*2);
+    }
+    #tile-1 .nav-tabs li button{
+        font-size: 15px;
+    }
+    #tile-1 .nav-tabs li button i{
+        font-size: 22px;
+    }
+    #tile-1 .nav-tabs li button{
+        padding: 18px 34px!important;
+    }
+    .tab-package-slider-container {
+        margin-top: calc(50px - 8px);
+    }
+    .tab-package-slider-head {
+        padding: calc(30px - 5px) 15px calc(30px - 5px) calc(30px - 5px);
+    }
+    .tab-package-slider-content{
+        padding: 0 15px calc(30px - 5px) calc(30px - 5px);
+    }
+    .tab-package-slider-head h4 span{
+        height: calc(50px - 8px);
+        width: calc(50px - 8px);
+    }
+    .tab-package-slider-head h4{
+        font-size: 16px;
+    }
+    .tab-package-slider-content ul li{
+        font-size: 14px;
+        padding: 9px 0;
+    }
+    .tab-package-book {
+        padding: 9px 25px;
+        font-size: 14px;
+    }
+    /*======================= tab package end ==========================*/
+
+}
+@media(max-width: 1400px){
+    p{
+        line-height: 2.2;
+    }
+    .banner-head{
+        font-size: 63px;
+    }
+    .pl-65 {
+        padding-left: 45px;
+    }
+    .pr-65 {
+        padding-right: 45px;
+    }
+    .banner {
+        padding: 62px 44px 0 84px;
+    }
+    .banner-span {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .banner-book-service {
+        margin: 52px 0 88px 0;
+    }
+    .banner-book-service .select-items div, .banner-book-service .select-selected, .banner-book-service input, .banner-book-service input::placeholder {
+        font-size: 14px;
+    }
+    .banner-book-service input {
+        padding: 12px 18px 14px 37px;
+    }
+    .location-icon img {
+        width: 18px;
+    }
+    .location-icon {
+        top: 11px;
+        left: 14px;
+    }
+    .book-service {
+        padding: 12px 21px !important;
+        font-size: 14px !important;
+    }
+    .banner-book-service .select-selected {
+        padding: 12px 35px 14px 18px;
+    }
+    .note {
+        font-size: 11px;
+        margin-bottom: 23px;
+    }
+    .home-care img{
+        width: 115px;
+    }
+    .service-grid .top-img{
+        margin-bottom: auto;
+    }
+    .grid-description {
+        padding-top: 15px;
+    }
+    .pcr-test img{
+        width: 156px;
+    }
+    .laboratory img{
+        width: 161px;
+    }
+    .vaccination img{
+        width: 196px;
+    }
+    .book-service.book-now {
+        padding: 8px 26px !important;
+    }
+    .mb-170 {
+        margin-bottom: 140px;
+    }
+    .pb-115 {
+        padding-bottom: 75px;
+    }
+    .pr-120 {
+        padding-right: 80px;
+    }
+    .pl-120 {
+        padding-left: 80px;
+    }
+    .pt-120 {
+        padding-top: 80px;
+    }
+    .about-us .wave {
+        height: 737px;
+    }
+    .ab-left {
+        width: 520px;
+        height: 535px;
+        padding: 180px 34px 0 24px;
+    }
+    .mt-215 {
+        margin-top: 144px;
+    }
+    .about-us-content{
+        padding-left: 60px;
+    }
+    .about-us-content {
+        width: 52%;
+    }
+    .about-us-content p {
+        margin-bottom: 25px;
+    }
+    .testimonial-inner-container {
+        padding-left: 80px;
+        padding-right: 45px;
+    }
+    .testimonial-grid {
+        padding: 24px 18px 26px 25px;
+    }
+    .author-section{
+        padding-bottom: 11px;
+    }
+    .author-detail h4 {
+        font-size: 15px;
+    }
+    .author-detail p{
+        font-size: 13px;
+    }
+    .testimonial-content p{
+        margin: 14px 0 18px 0;
+    }
+    .quote-img img{
+        width: 22px !important;
+    }
+    .owl-dots{
+        margin-top: 37px;
+    }
+    .owl-dots button.owl-dot{
+        height: 10px;
+        width: 10px;
+        margin-right: 6px;
+    }
+    .pb-160 {
+        padding-bottom: 106px;
+    }
+    .pl-25 {
+        padding-left: 20px;
+    }
+    .partner-logo img {
+        height: 85px;
+    }
+    .partner-logo-wrapper .row [class*='col-'] {
+        margin-top: 28px;
+    }
+    .contact-strip {
+        margin-bottom: 45px;
+    }
+    .strip-inner img {
+        height: 255px;
+    }
+    .strip-contact {
+        padding: 37px 0 15px 97px;
+    }
+    .strip-icon {
+        height: 83px;
+        width: 83px;
+        left: -40px;
+        top: 40px;
+    }
+    .strip-icon img {
+        height: 25px;
+    }
+    .strip-contact p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .strip-contact span img{
+        height: 21px;
+    }
+    .strip-contact span {
+        margin-right: 13px;
+    }
+    .strip-contact a {
+        font-size: 44px;
+    }
+    .contact-strip-inner {
+        height: 157px;
+    }
+    .service-grid {
+        padding: 53px 21px 27px 33px;
+    }
+    .service-grid h3 {
+        font-size: 20px;
+    }
+    .section-head {
+        font-size: 32px;
+        margin-bottom: 13px;
+    }
+    .pb-50 {
+        padding-bottom: 34px;
+    }
+    .pt-215 {
+        padding-top: 143px;
+    }
+    .pl-180 {
+        padding-left: 120px;
+    }
+    .pr-155 {
+        padding-right: 103px;
+    }
+    .pl-30 {
+        padding-left: 20px;
+    }
+    .mt-180 {
+        margin-top: 120px;
+    }
+    .pl-40 {
+        padding-left: 28px;
+    }
+    .pr-150 {
+        padding-right: 100px;
+    }
+    
+    /*-------------------------------- about start ------------------------*/
+    .pb-130 {
+        padding-bottom: 86px;
+    }
+    .pl-130 {
+        padding-left: 86px;
+    }
+    .pb-215 {
+        padding-bottom: 145px;
+    }
+    .pr-90 {
+        padding-right: 60px;
+    }
+    .one-stop-img {
+        height: 415px;
+    }
+    .vision-mission-container {
+        padding: 46px 60px;
+        margin-bottom: 160px;
+    }
+    .mission-vision-inner [class*="col-"] {
+        padding-right: 65px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(2) {
+        padding-right: 50px;
+        padding-left: 17px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(3){
+        padding-left: 65px;
+    }
+    .mb-25 {
+        margin-bottom: 17px;
+    }
+    .core-value img {
+        height: 150px;
+    }
+    .mission img {
+        height: 152px;
+    }
+    .vision img {
+        height: 154px;
+    }
+    .grid-content h4 {
+        font-size: 24px;
+        margin-bottom: 14px;
+    }
+    .pb-200 {
+        padding-bottom: 132px;
+    }
+    .pl-80 {
+        padding-left: 52px;
+    }
+    .team-grid {
+        margin-bottom: 26px;
+    }
+    .team-desc h5{
+        font-size: 15px;
+    }
+    .team-desc p{
+        font-size: 13px;
+    }
+    /*-------------------------------- about end ------------------------*/
+
+    /*-------------------------------- services start --------------------*/
+    .banner.service-banner {
+        padding-bottom: 46px;
+        padding-right: 96px;
+        margin-bottom: 20px;
+    }
+    .service-banner-para {
+        padding-right: 0px;
+    }
+    .service-banner h1 {
+        margin-bottom: 20px;
+    }
+    .grid-service {
+        padding: 30px 20px 46px 20px;
+        width: 220px;
+    }
+    .grid-service img {
+        margin-bottom: 17px;
+    }
+    .home-care-pill img {
+        height: 125px;
+    }
+    .service-head {
+        font-size: 19px;
+    }
+    .pcr-test-pill img {
+        height: 115px;
+    }
+    .laboratory-pill img {
+        height: 100px;
+    }
+    .vaccination-pill img {
+        height: 100px;
+    }
+    .service-view {
+        padding-top: 52px;
+    }
+    .service-content {
+        margin-bottom: 34px;
+    }
+    .service-view .service-head {
+        font-size: 24px;
+        margin-bottom: 9px;
+    }
+    .service-view p {
+        font-size: 14px;
+    }
+    .service-page-body {
+        padding-bottom: 169px;
+    }
+    /*-------------------------------- services end ----------------------*/
+
+    /*---------------------------------- book appointment popup start ----------------*/
+    .book-appoinment .modal-dialog {
+        max-width: 667px;
+    }
+    .modal-header {
+        padding: 23px 37px 23px 68px;
+    }
+    .modal-title {
+        font-size: 21px;
+    }
+    .modal-body {
+        padding: 75px 89px 0 68px;
+    }
+    .contact-form-container label {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .radio-btn-box label{
+        min-width: 142px;
+        padding: 14px 19px 14px 35px;
+    }
+    .checkmark {
+        top: 15px;
+        left: 14px;
+        height: 11px;
+        width: 11px;
+    }
+    .book-appoinment fieldset .form-group:first-child {
+        margin-bottom: 28px;
+    }
+    .form-group {
+        margin-bottom: 20px;
+    }
+    .book-appoinment fieldset .form-group:nth-child(3) {
+        margin-bottom: 45px;
+    }
+    .contact-form-container input, .contact-form-container textarea, .contact-form-container .select-selected {
+        font-size: 14px;
+        padding: 16px 15px;
+    }
+    input[type="datetime-local"], input[type="date"] {
+        padding-left: 48px;
+    }
+    .select-items div, .select-selected {
+        font-size: 14px;
+    }
+    .contact-form-container .select-selected:after {
+        top: 18px;
+    }
+    .modal-content {
+        min-height: 650px;
+    }
+    /*---------------------------------- book appointment popup end ----------------*/
+
+    /*--------------------------------- patient details popup start ----------------*/
+    .patient-details .modal-body {
+        padding: 25px 64px 40px 94px;
+    }
+    .label-span{
+        margin-bottom: 11px;
+    }
+    .contact-form-container input::placeholder{
+        font-size: 14px;
+    }
+    .revision-grid img {
+        margin-bottom: 20px;
+    }
+    .revision-grid p {
+        font-size: 16px;
+    }
+    .revision-grid {
+        padding-bottom: 16px;
+    }
+    .form-revision .revision-grid:nth-child(2) {
+        padding-top: 46px;
+    }
+    .form-revision .revision-grid:nth-child(3) {
+        padding-top: 28px;
+    }
+    .form-revision .revision-grid:nth-child(4) {
+        padding-top: 20px;
+    }
+    .revision-grid span {
+        font-size: 14px;
+        margin-bottom: 11px;
+    }
+    .revision-grid p {
+        font-size: 14px;
+    }
+    .form-revision .revision-grid:nth-child(4) p {
+        padding-bottom: 16px;
+        line-height: 1.5;
+    }
+    .form-revision {
+        padding: 46px 40px;
+    }
+    .map {
+        width: 170px;
+        height: 106px;
+    }
+    .patient-details fieldset .form-group:last-of-type {
+        margin-bottom: 37px;
+    }
+    /*--------------------------------- patient details popup end ----------------*/
+
+    /*--------------------------------- book-success popup start ----------------*/
+    .book-success .modal-xl {
+        max-width: 1110px;
+    }
+    .book-success img{
+        height: 192px;
+    }
+    .book-success h5 {
+        margin: 49px 0;
+        font-size: 32px;
+    }
+    /*--------------------------------- book-success popup end ----------------*/
+
+    /*--------------------------------- testimonial start ---------------------*/
+    .testimonial-page {
+        padding-top: 95px;
+    }
+    .pr-225 {
+        padding-right: 151px;
+    }
+    .testimonial-container {
+        padding: 55px 0 152px 0;
+    }
+    .testimonial-container .testimonial-grid {
+        margin-top: 20px;
+    }
+    .testimonial-container .icon-plus{
+        bottom: 10rem;
+    }
+    .testimonial-container .beat{
+        right: -7rem;
+    }
+    .testimonial-grid.active {
+        padding-left: 32px;
+    }
+    /*--------------------------------- testimonial end ---------------------*/
+
+    /*--------------------------------- contact page start -------------------*/
+    .contact-page .banner {
+        padding: 78px 111px 0 78px;
+        height: 820px;
+    }
+    address {
+        margin: 20px 0 74px 0;
+    }
+    .contact-form-container {
+        padding-top: 17px;
+    }
+    .send-btn {
+        margin-top: 16px;
+    }
+    /*--------------------------------- contact page end -------------------*/
+
+    /*-------------------------------- footer start -----------------------*/
+    .footer-top {
+        padding: 35px 57px 26px 57px;
+    }
+    .footer-logo {
+        padding-right: 47px;
+    }
+    .footer-logo img {
+        margin-bottom: 15px;
+        height: 50px;
+    }
+    .pl-215 {
+        padding-left: 45px;
+    }
+    .office-time{
+        margin-top: 15px;
+    }
+    .quick-links ul li {
+        margin-bottom: 17px;
+    }
+    .footer-contact ul li:last-child {
+        margin-top: 27px;
+    }
+    .time-icon img{
+        width: 15px;
+    }
+    .footer-contact {
+        padding-left: 20px;
+    }
+    .icon-plus, .icon-plus-2{
+        width: 53px;
+    }
+    .beat, .beat-2,.beat-3 {
+        width: 17px;
+    }
+    .credit{
+        padding: 17px 200px 20px 93px;
+    }
+    /*-------------------------------- footer end -----------------------*/
+
+    /*--------------------------------- blog start ---------------------------*/
+    .thumbnail-img{
+        height: calc(270px - 45px*2);
+    }
+    .blog-date p, .blog-readmore{
+        font-size: calc(16px - 2px*1.2);
+    }
+    .blog-title h3{
+        font-size: calc(24px - 4px*2);
+    }
+    .blog-readmore{
+        padding-top: calc(20px - 4px*2);
+    }
+    .blog-page{
+        padding-top: calc(70px - 10px*2);
+        padding-bottom: calc(60px - 10px*2);
+    }
+    /*--------------------------------- blog end -----------------------------*/
+
+    /*--------------------------------- single blog start --------------------*/
+    .blog-head h1{
+        font-size: calc(40px - 6px*2);
+    }
+    .feature-img img{
+        height: calc(600px - 100px*2);
+    }
+    .single-content {
+        padding: calc(20px - 2px*2) 0 calc(40px - 6px*2) 0;
+    }
+    .single-content h2, .single-content h3, .single-content h4, .single-content h5{
+        font-size: calc(32px - 5px*2);
+        margin: calc(20px - 2px*2) 0;
+    }
+    .single-content p{
+        margin-bottom: calc(20px - 2px*2);
+    }
+    .single-img{
+        max-height: calc(450px - 75px*2);
+        margin: calc(30px - 5px*2) 0;
+    }
+    .recent-post h3 {
+        font-size: calc(26px - 4px*2);
+        margin-bottom: calc(20px - 2px*2);
+    }
+    .recent-post {
+        padding-left: calc(100px - 15px*2);
+        margin-top: calc(40px - 6px*2);
+    }
+    .recent-thumbnail{
+        width: calc(90px - 15px*1.5);
+        height: calc(90px - 15px*1.5);
+    }
+    .recent-post-head h4{
+        font-size: calc(18px - 3px);
+    }
+    .category{
+        margin-top: calc(36px - 6px);
+    }
+    .category h5{
+        font-size: 18px;
+    }
+    .category ul li a{
+        padding: 8px 13px;
+        font-size: 13px;
+    }
+    .tags h5{
+        font-size: 15px;
+    }
+    .tags ul li{
+        font-size: 14px;
+    }
+    .tags ul{
+        padding-left: 50px;
+    }
+    /*--------------------------------- single blog end ----------------------*/
+    /*-------------- banner start ---------------*/
+    .sevicebnrSection{
+        height: calc(806px - 134px*2);
+    }
+    .sevicebnrSection .bannerRow .banner-content-box h2 span{
+        font-size: 16px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent p {
+        font-size: 26px;
+        line-height: normal;
+        max-width: 500px;
+    }
+    .banner-content-box{
+        padding-left: 70px;
+    }
+    /*-------------- banner end ---------------*/
+
+    /*======================== iv landing page start ===================*/
+    .SevicebannerSection.iv-banner .bannerRow .bannerContent p{
+        font-size: 17px;
+        max-width: 545px;
+    }
+    .sevicebnrSection.SevicebannerSection.iv-banner h2{
+        padding-left: 100px;
+    }
+    .iv-alternate-wrapper{
+        padding: calc(120px - 20px*2) 0 0 0;
+    }
+    .content-grid{
+        padding: calc(100px - 15px*2) calc(120px - 20px*2);
+    }
+    .content-grid p{
+        font-size: 14px;
+    }
+    .design{
+        padding: calc(120px - 20px*2) 0; 
+    }
+    .design-grid-img {
+        margin-bottom: calc(30px - 5px*2);
+    }
+    .design-grid-img img{
+        width: calc(180px - 30px*2);
+    }
+    .design-grid-desc h4{
+        font-size: calc(20px - 2px*2);
+    }
+    .design-grid-desc p{
+        font-size: 14px;
+    }
+    .best-uses-container {
+        padding: calc(90px - 15px*2) 0 0 0;
+    }
+    .best-use-points{
+        font-size: calc(20px - 2px*2);
+    }
+    .iv-drip{
+        padding: calc(50px - 8px*2) calc(50px - 8px*2);
+    }
+    .iv-drip h3{
+        font-size: calc(36px - 6px*2);
+    }
+    .iv-drip-wraper {
+        padding-top: calc(56px - 10px*2);
+    }
+    .drip-item-num{
+        font-size: calc(42px - 7px);
+    }
+    .drip-item-desc h4{
+        font-size: calc(18px - 2px);
+    }
+    .iv-drip-wraper .row [class*="col-"]:first-child .drip-item {
+        padding-right: 15px;
+    }
+    .iv-drip-wraper .row [class*="col-"]:last-child .drip-item {
+        padding-left: 20px;
+    }
+    .iv-drip-wraper .row [class*='col-'] {
+        margin-bottom: calc(30px - 5px*2);
+    }
+    .best-uses-container h3{
+        margin-bottom: 30px;
+    }
+    .best-uses-wrapper{
+        background-position: center;
+    }
+    .drip-item-desc p{
+        padding-bottom: 10px;
+    }
+    /*======================== iv landing page end ===================*/
+
+    /*======================= tab package start ==========================*/
+    .tab-package {
+        padding: calc(80px - 13px*2) 0 0 0;
+    }
+    .tab-package-wrapper {
+        margin-top: calc(50px - 8px*3);
+    }
+    #tile-1 .nav-tabs li button{
+        font-size: 15px;
+    }
+    #tile-1 .nav-tabs li button i{
+        font-size: 22px;
+    }
+    #tile-1 .nav-tabs li button{
+        padding: 16px 28px!important;
+    }
+    .tab-package-slider-container {
+        margin-top: calc(50px - 8px*2);
+    }
+    .tab-package-slider-head {
+        padding: calc(30px - 5px*2) 15px calc(30px - 5px*2) calc(30px - 5px*2);
+    }
+    .tab-package-slider-content{
+        padding: 0 15px calc(30px - 5px*2) calc(30px - 5px*2);
+    }
+    .tab-package-slider-head h4 span{
+        height: calc(50px - 8px);
+        width: calc(50px - 8px);
+    }
+    .tab-package-slider-head h4{
+        font-size: 15px;
+    }
+    .tab-package-slider-content ul li{
+        font-size: 14px;
+        padding: 9px 0;
+    }
+    .tab-package-book {
+        padding: 9px 25px;
+        font-size: 14px;
+    }
+    /*======================= tab package end ==========================*/
+}
+@media(max-width: 1300px){
+    .banner-head {
+        font-size: 58px;
+    }
+    .about-us-content {
+        width: 47%;
+    }
+    .display-time p{
+        font-size: 11px;
+    }
+    .pl-215 {
+        padding-left: 15px;
+    }
+    .footer-contact {
+        padding-left: 7px;
+    }
+   /*------------------- service start -------------------------------*/
+   .grid-service{
+       width: 210px;
+   }
+   /*------------------- service end ---------------------------------*/
+}
+@media(max-width: 1199px){
+    .pr-65 {
+        padding-right: 35px;
+    }
+    .pl-65 {
+        padding-left: 35px;
+    } 
+    .banner-head {
+        font-size: 48px;
+    }
+    .banner-span {
+        font-size: 12px;
+        margin-top: 15px;
+    } 
+    .banner-book-service {
+        margin: 39px 0 84px 0;
+    }
+    .banner-book-service input {
+        padding: 10px 15px 14px 28px;
+    }
+    .banner-book-service .select-items div, .banner-book-service .select-selected, .banner-book-service input, .banner-book-service input::placeholder {
+        font-size: 13px;
+    }
+    .location-icon img {
+        width: 16px;
+    }
+    .location-icon{
+        top: 8px;
+        left: 10px;
+    }
+    .banner-book-service .select-selected {
+        padding: 10px 28px 14px 14px;
+    }
+    .select-selected.select-arrow-active:after, .select-selected:after {
+        top: 15px;
+    }
+    .select-selected:after {
+        right: 15px;
+        padding: 3px;
+    }
+    .book-service {
+        padding: 11px 15px !important;
+        font-size: 13px !important;
+    }
+    .note{
+        margin-bottom: 15px;
+    }
+    .section-head{
+        font-size: 24px;
+    }
+    p{
+        font-size: 13px;
+    }
+    .pl-160 {
+        padding-left: 25px;
+    }
+    .pr-155 {
+        padding-right: 77px;
+    }
+    .pl-180 {
+        padding-left: 90px;
+    }
+    .pl-30 {
+        padding-left: 15px;
+    }
+    .service-grid {
+        padding: 39px 15px 22px 24px;
+    }
+    .service-grid h3 {
+        font-size: 18px;
+    }
+    .home-care img {
+        width: 100px;
+    }
+    .pcr-test img {
+        width: 124px;
+    }
+    .laboratory img {
+        width: 131px;
+    }
+    .vaccination img {
+        width: 156px;
+    }
+    .service-grid .top-img{
+        top: -90px;
+    }
+    .laboratory .top-img, .vaccination .top-img{
+        top: -75px;
+    }
+    .service-grid h3{
+        font-size: 17px;
+    }
+    .pcr-test .grid-description{
+        padding-top: 0;
+    }
+    .grid-description p{
+        margin: 7px 0 15px 0;
+    }
+    .book-service{
+        font-size: 12px !important;
+    }
+    .mb-170 {
+        margin-bottom: 115px;
+    }
+    .pb-50 {
+        padding-bottom: 26px;
+    }
+    .pl-120 {
+        padding-left: 60px;
+    }
+    .pr-120 {
+        padding-right: 60px;
+    }
+    .ab-left {
+        width: 416px;
+        height: 425px;
+        padding: 135px 26px 0 19px;
+    }
+    .mt-215 {
+        margin-top: 105px;
+    }
+    .about-us-content {
+        width: 50%;
+    }
+    .about-us-content p {
+        margin-bottom: 20px;
+    }
+    .pb-115 {
+        padding-bottom: 55px;
+    }
+    .pt-120 {
+        padding-top: 60px;
+    }
+    .about-us .wave {
+        height: 552px;
+        top: -12rem;
+    }
+    .pr-150 {
+        padding-right: 75px;
+    }
+    .owl-dots {
+        margin-top: 29px;
+    }
+    .pb-160 {
+        padding-bottom: 79px;
+    }
+    .partner-logo img {
+        height: 70px;
+    }
+    .partner-logo-wrapper .row [class*='col-'] {
+        margin-top: 21px;
+    }
+    .contact-strip {
+        margin-bottom: 35px;
+    }
+    .strip-icon {
+        height: 61px;
+        width: 61px;
+        left: -30px;
+        top: 30px;
+    }
+    .strip-icon img {
+        height: 18px;
+    }
+    .strip-contact {
+        padding: 27px 0 15px 72px;
+    }
+    .strip-contact p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .strip-contact span img {
+        height: 18px;
+    }
+    .strip-contact span {
+        margin-right: 10px;
+    }
+    .strip-contact a {
+        font-size: 34px;
+    }
+    .strip-inner img {
+        height: 191px;
+    }
+    .contact-strip-inner {
+        height: 120px;
+    }
+    .icon-plus, .icon-plus-2{
+        width: 40px;
+    }
+    .beat, .beat-2,.beat-3 {
+        width: 14px;
+    }
+
+    /*-------------------------- about start ----------------------*/
+    .pb-130 {
+        padding-bottom: 64px;
+    }
+    .pb-215 {
+        padding-bottom: 110px;
+    }
+    .pl-130 {
+        padding-left: 64px;
+    }
+    .pr-90 {
+        padding-right: 45px;
+    }
+    .vision-mission-container {
+        padding: 36px 30px;
+        margin-bottom: 120px;
+    }
+    .core-value img {
+        height: 115px;
+    }
+    .mission img {
+        height: 114px;
+    }
+    .vision img {
+        height: 115px;
+    }
+    .mission-vision-inner [class*="col-"] {
+        padding-right: 50px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(2) {
+        padding-right: 40px;
+        padding-left: 13px;
+    }
+    .mb-25 {
+        margin-bottom: 15px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(3) {
+        padding-left: 50px;
+    }
+    .pb-200 {
+        padding-bottom: 98px;
+    }
+    .pl-80 {
+        padding-left: 38px;
+    }
+    .team-grid {
+        margin-bottom: 20px;
+    }
+    .team-desc h5 {
+        font-size: 14px;
+    }
+    .team-desc p {
+        font-size: 12px;
+    }
+    /*-------------------------- about start ----------------------*/
+
+    /*-------------------------- services start ---------------------*/
+    .banner.service-banner {
+        padding-bottom: 34px;
+        padding-right: 72px;
+        margin-bottom: 15px;
+    }
+    .service-banner h1 {
+        margin-bottom: 16px;
+    }
+    .home-care-pill img {
+        height: 100px;
+    }
+    .grid-service img {
+        margin-bottom: 15px;
+    }
+    .service-head {
+        font-size: 16px;
+    }
+    .grid-service {
+        width: 170px;
+        padding: 22px 15px 34px 15px;
+    }
+    .pcr-test-pill img {
+        height: 95px;
+    }
+    .laboratory-pill img {
+        height: 78px;
+    }
+    .vaccination-pill img {
+        height: 72px;
+    }
+    .nav.nav-pills.sticky-top {
+        top: 7rem;
+    }
+    .service-view {
+        padding-top: 38px;
+    }
+    .service-content {
+        margin-bottom: 26px;
+    }
+    .service-view .service-head {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .service-page-body {
+        padding-bottom: 126px;
+    }
+    /*-------------------------- services end ---------------------*/
+
+    /*--------------------------------- patient details popup start ----------------*/
+    .patient-details .modal-body {
+        padding: 25px 47px 30px 70px;
+    }
+    .contact-form-container input, .contact-form-container textarea, .contact-form-container .select-selected{
+        padding: 14px 15px;
+    }
+    input[type="datetime-local"], input[type="date"]{
+        padding-left: 48px;
+    }
+    .revision-grid img {
+        margin-bottom: 15px;
+    }
+    .revision-grid {
+        padding-bottom: 15px;
+    }
+    .form-revision {
+        padding: 36px 18px;
+    }
+    .form-revision .revision-grid:nth-child(2) {
+        padding-top: 35px;
+    }
+    .form-revision .revision-grid:nth-child(3) {
+        padding-top: 22px;
+    }
+    /*--------------------------------- patient details popup end ----------------*/
+
+    /*--------------------------------- book-success popup start ----------------*/
+    .book-success .modal-xl {
+        max-width: 845px;
+    }
+    /*--------------------------------- book-success popup end ----------------*/
+
+    /*--------------------------------- testimonial start ---------------------*/
+    .pr-225 {
+        padding-right: 114px;
+    }
+    .testimonial-page {
+        padding-top: 70px;
+    }
+    .testimonial-container {
+        padding: 40px 0 115px 0;
+    }
+    .testimonial-container .icon-plus{
+        bottom: 10rem;
+        right: -4rem;
+    }
+    .testimonial-container .beat {
+        right: -4rem;
+    }
+    .testimonial-grid.active {
+        padding-left: 24px;
+    }
+    /*--------------------------------- testimonial end ---------------------*/
+
+    /*--------------------------------- contact page start -------------------*/
+    .contact-page .banner {
+        padding: 58px 84px 0 58px;
+        height: 750px;
+    }
+    address {
+        margin: 15px 0 56px 0;
+    }
+    .contact-form-container {
+        padding-top: 13px;
+    }
+    .send-btn {
+        margin-top: 14px;
+    }
+    address li p, address li a{
+        line-height: 1.6;
+    }
+    .form-container textarea::placeholder{
+        font-size: 14px;
+    }
+    /*--------------------------------- contact page end -------------------*/
+
+    /*-------------------------- footer start ---------------------*/
+    .footer-top {
+        padding: 25px 35px 20px 35px;
+    }
+    .footer-logo {
+        padding-right: 10px;
+    }
+    .footer-logo img{
+        height: 40px;
+    }
+    .display-time{
+        flex-wrap: wrap;
+    }
+    .display-time p{
+        margin-bottom: 7px;
+    }
+    .pl-215 {
+        padding-left: 105px;
+    }
+    .credit{
+        padding: 14px 150px 16px 70px;
+    }
+    .ftr-contact{
+        padding: 12px 27px !important;
+    }
+    /*-------------------------- footer end ---------------------*/
+
+    /*------------------------- single blog start ---------------*/
+    .recent-post.sticky-top {
+        top: 110px;
+    }
+    .recent-post {
+        padding-left: calc(100px - 15px*4.5);
+        margin-top: calc(40px - 6px*3);
+    }
+    /*------------------------- single blog end -----------------*/
+
+    /*-------------- banner start ---------------*/
+    .SevicebannerSection .bannerRow .bannerContent p {
+        font-size: 23px;
+        line-height: normal;
+        max-width: 455px;
+    }
+    .banner-content-box{
+        padding-left: 50px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent h2{
+        font-size: 30px;
+    }
+    /*-------------- banner end ---------------*/
+
+    /*======================== iv landing page start ===================*/
+    .iv-alternate-wrapper{
+        padding: calc(120px - 20px*3) 0 0 0;
+    }
+    .content-grid{
+        padding: calc(100px - 15px*4) calc(120px - 20px*3);
+    }
+    
+    .design{
+        padding: calc(120px - 20px*3) 0; 
+    }
+    .design-grid-img {
+        margin-bottom: calc(30px - 5px*3);
+    }
+    .design-grid-img img{
+        width: calc(180px - 30px*3);
+    }
+    .design-grid-desc h4{
+        font-size: calc(20px - 2px*2);
+    }
+    
+    .best-uses-container {
+        padding: calc(90px - 15px*3) 0 0 0;
+    }
+    .best-use-points{
+        font-size: calc(20px - 2px*2.5);
+    }
+    .iv-drip{
+        padding: calc(50px - 8px*3) calc(50px - 8px*3);
+    }
+    .iv-drip h3{
+        font-size: calc(36px - 6px*2);
+    }
+    .iv-drip-wraper {
+        padding-top: calc(56px - 10px*3);
+    }
+    .drip-item-num{
+        font-size: calc(42px - 7px);
+    }
+    .drip-item-desc h4{
+        font-size: calc(18px - 2px);
+    }
+    .iv-drip-wraper .row [class*="col-"]:first-child .drip-item {
+        padding-right: 15px;
+    }
+    .iv-drip-wraper .row [class*="col-"]:last-child .drip-item {
+        padding-left: 15px;
+    }
+    .iv-drip-wraper .row [class*='col-'] {
+        margin-bottom: calc(30px - 5px*3);
+    }
+    .best-uses-container h3{
+        margin-bottom: 25px;
+        font-size: 32px;
+    }
+    .best-uses-wrapper{
+        background-position: center;
+    }
+    .drip-item-desc p{
+        padding-bottom: 10px;
+    }
+    .design .row [class*="col-"] {
+        padding: 0 20px;
+    }
+    .drip-item-desc{
+        margin-right: 0;
+    }
+    .content-grid p, .design-grid-desc p {
+        font-size: 13px;
+    }
+    /*======================== iv landing page end ===================*/
+
+    /*======================= tab package start ==========================*/
+    .tab-package {
+        padding: calc(80px - 13px*3) 0 0 0;
+    }
+    #tile-1 .nav-tabs li button {
+        font-size: 14px;
+    }
+    .tab-package-slider-container {
+        margin-top: calc(50px - 8px*3);
+    }
+    .tab-package-slider-head h4 span {
+        height: calc(50px - 8px*1.3);
+        width: calc(50px - 8px*1.3);
+    }
+    .tab-package-slider-head h4 {
+        font-size: 14px;
+    }
+    /*======================= tab package end ==========================*/
+}
+@media(max-width: 991px){
+    .banner-image{
+        display: none;
+    }
+    .pl-65 {
+        padding-left: 25px;
+    }
+    .pr-65 {
+        padding-right: 25px;
+    }
+    .banner {
+        padding: 47px 34px 0 64px;
+    }
+    .banner-head {
+        font-size: 38px;
+    }
+    .banner-book-service {
+        margin: 26px 0 64px 0;
+    }
+    .banner-book-service input {
+        padding: 11px 15px 11px 28px;
+    }
+    .banner-book-service .select-selected {
+        padding: 11px 28px 11px 14px;
+    }
+    .pl-180 {
+        padding-left: 70px;
+    }
+    .pr-155 {
+        padding-right: 50px;
+    }
+    .pl-160 {
+        padding-left: 20px;
+    }
+    .pl-40 {
+        padding-left: 15px;
+    }
+    .mt-180 {
+        margin-top: 90px;
+    }
+    .pt-215 {
+        padding-top: 120px;
+    }
+    .service-grid h3 {
+        font-size: 16px;
+    }
+    .service p {
+        line-height: 1.6;
+    }
+    .service-grid {
+        padding: 15px 15px 20px 20px;
+    }
+    .home-care img {
+        width: 85px;
+    }
+    .pcr-test img {
+        width: 94px;
+    }
+    .laboratory img {
+        width: 91px;
+    }
+    .vaccination img {
+        width: 116px;
+    }
+    .pb-115 {
+        padding-bottom: 35px;
+    }
+    .pr-120 {
+        padding-right: 40px;
+    }
+    .about-us-content {
+        width: 100%;
+    }
+    .mt-215 {
+        margin-top: 30px;
+    }
+    .pr-150 {
+        padding-right: 50px;
+    }
+    .pl-25 {
+        padding-left: 15px;
+    }
+    .ab-left {
+        width: 350px;
+        height: 350px;
+        padding: 90px 18px 0 14px;
+    }
+    .about-us .wave {
+        height: 367px;
+        top: -8rem;
+    }
+    .about-us-content p {
+        margin-bottom: 15px;
+    }
+    .pt-120 {
+        padding-top: 40px;
+    }
+    .section-head {
+        font-size: 20px;
+    }
+    .testimonial-inner-container {
+        padding-left: 60px;
+        padding-right: 35px;
+    }
+    .testimonial-grid {
+        padding: 18px 15px 20px 20px;
+    }
+    .testimonial-content p {
+        margin: 14px 0 14px 0;
+    }
+    .owl-dots {
+        margin-top: 20px;
+    }
+    .pb-160 {
+        padding-bottom: 52px;
+    }
+    .partner-logo img {
+        height: 64px;
+    }
+    .partner-logo-wrapper .row [class*='col-'] {
+        margin-top: 15px;
+    }
+    .contact-strip {
+        margin-bottom: 25px;
+    }
+    .strip-icon {
+        height: 39px;
+        width: 39px;
+        left: -20px;
+        top: 20px;
+    }
+    .strip-icon img {
+        height: 12px;
+    }
+    .strip-contact {
+        padding: 17px 0 15px 47px;
+    }
+    .strip-contact p {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .strip-contact span img {
+        height: 15px;
+    }
+    .strip-contact a {
+        font-size: 24px;
+    }
+    .contact-strip-inner {
+        height: 85px;
+    }
+    .strip-inner img {
+        height: 157px;
+    }
+
+    /*------------------------------------ about start -----------------------*/
+    .pb-130 {
+        padding-bottom: 42px;
+    }
+    .pl-130 {
+        padding-left: 42px;
+    }
+    .pb-215 {
+        padding-bottom: 75px;
+    }
+    .pr-90 {
+        padding-right: 30px;
+    }
+    .one-stop-img{
+        height: auto;
+        width: 100%;
+    }
+    .vision-mission-container {
+        padding: 26px 30px;
+        margin-bottom: 80px;
+    }
+    .mission-vision-inner [class*="col-"] {
+        padding-right: 35px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(2){
+        padding-right: 30px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(3) {
+        padding-left: 35px;
+    }
+    .mb-25 {
+        margin-bottom: 12px;
+    }
+    .grid-content h4 {
+        font-size: 18px;
+        margin-bottom: 11px;
+    }
+    .pb-200 {
+        padding-bottom: 64px;
+    }
+    .pl-80 {
+        padding-left: 24px;
+    }
+    /*------------------------------------ about end -----------------------*/
+
+    /*-------------------------- services start ---------------------*/
+    .banner.service-banner {
+        padding-bottom: 22px;
+        padding-right: 48px;
+        margin-bottom: 15px;
+    }
+    .grid-service {
+        width: 135px;
+        padding: 15px 15px 22px 15px;
+    }
+    .home-care-pill img {
+        height: 90px;
+    }
+    .pcr-test-pill img {
+        height: 80px;
+    }
+    .laboratory-pill img {
+        height: 68px;
+    }
+    .vaccination-pill img {
+        height: 62px;
+    }
+    .service-head {
+        font-size: 15px;
+    }
+    .nav.nav-pills.sticky-top {
+        top: 6rem;
+    }
+    .service-view {
+        padding-top: 24px;
+    }
+    .service-content {
+        margin-bottom: 22px;
+    }
+    .service-view .service-head{
+        font-size: 18px;
+    }
+    .service-page-body {
+        padding-bottom: 83px;
+    }
+    /*-------------------------- services end ----------------------*/
+
+    /*--------------------------------- patient details popup start ----------------*/
+    .patient-details .modal-body {
+        padding: 25px 20px 20px 20px;
+    }
+    .contact-form-container input, .contact-form-container textarea, .contact-form-container .select-selected {
+        padding: 12px 15px;
+    }
+    .patient-details .pl-180 {
+        padding-left: 30px;
+    }
+    
+    /*--------------------------------- patient details popup end ----------------*/
+
+    /*--------------------------------- book-success popup start ----------------*/
+    .book-success .modal-xl {
+        max-width: 580px;
+    }
+    .book-success img{
+        height: 143px;
+    }
+    .book-success h5 {
+        margin: 36px 0;
+        font-size: 24px;
+    }
+    .book-success .modal-content {
+        min-height: 444px;
+    }
+    /*--------------------------------- book-success popup end ----------------*/
+
+    /*--------------------------------- testimonial start ---------------------*/
+    .pr-225 {
+        padding-right: 81px;
+    }
+    .testimonial-page {
+        padding-top: 45px;
+    }
+    .testimonial-container {
+        padding: 25px 0 78px 0;
+    }
+    .testimonial-container .icon-plus{
+        bottom: 10rem;
+        right: -4rem;
+    }
+    .testimonial-container .beat {
+        right: -4rem;
+    }
+    .testimonial-grid.active {
+        padding-left: 16px;
+    }
+    /*--------------------------------- testimonial end ---------------------*/
+
+    /*--------------------------------- contact page start -------------------*/
+    address li p, address li a{
+        font-size: 13px;
+    }
+    .contact-page .banner {
+        padding: 38px 57px 0 38px;
+        height: 690px;
+    }
+    .contact-form-container textarea {
+        height: 125px;
+    }
+    .send-btn {
+        margin-top: 12px;
+    }
+    /*--------------------------------- contact page end -------------------*/
+
+    .pl-215 {
+        padding-left: 15px;
+    }
+    .footer-contact {
+        padding-left: 0;
+        margin-top: 30px;
+    }
+    .footer-contact ul li:last-child {
+        margin-top: 18px;
+    }
+    .credit{
+        padding: 14px 100px 16px 47px;
+    }
+    .ftr-contact {
+        padding: 12px 21px !important;
+    }
+
+    /*--------------------------------- blog start ---------------------------*/
+    .thumbnail-img{
+        height: calc(270px - 45px*3);
+    }
+    .blog-date p, .blog-readmore{
+        font-size: calc(16px - 2px*1.6);
+    }
+    .blog-title h3{
+        font-size: calc(24px - 4px*2.3);
+    }
+    .blog-readmore{
+        padding-top: calc(20px - 4px*3);
+    }
+    .blog-page{
+        padding-top: calc(70px - 10px*3);
+        padding-bottom: calc(60px - 10px*3);
+    }
+    .thumbnail-img{
+        margin-bottom: 15px;
+    }
+    .blog-grid{
+        margin-bottom: calc(42px - 7px);
+    }
+    .blog-wrapper{
+        margin-top: calc(50px - 8px*2);
+    }
+    /*--------------------------------- blog end -----------------------------*/
+
+    /*------------------------- single blog start ---------------*/
+    .blog-head h1 {
+        font-size: calc(40px - 6px*3);
+        margin: 15px 0 calc(30px - 5px*2) 0;
+    }
+    .recent-post.sticky-top {
+        top: 110px;
+    }
+    .recent-post {
+        padding-left: calc(100px - 15px*5.5);
+        margin-top: calc(40px - 6px*3);
+    }
+    .feature-img img {
+        height: calc(600px - 100px*3);
+    }
+    .single-content h2, .single-content h3, .single-content h4, .single-content h5 {
+        font-size: calc(32px - 5px*2.5);
+        margin: calc(20px - 2px*3) 0;
+    }
+    .single-img {
+        max-height: calc(450px - 75px*2);
+        margin: calc(30px - 5px*3) 0;
+    }
+    .category ul li a {
+        padding: 8px 9px;
+        font-size: 12px;
+    }
+    /*------------------------- single blog end -----------------*/
+
+    /*-------------- banner start ---------------*/
+    .sevicebnrSection{
+        height: calc(806px - 134px*3);
+    }
+    .sevicebnrSection .bannerRow .banner-content-box h2 span{
+        font-size: 16px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent p {
+        font-size: 20px;
+        line-height: normal;
+        max-width: 400px;
+    }
+    .banner-content-box{
+        padding-left: 40px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent h2{
+        font-size: 28px;
+    }
+    /*-------------- banner end ---------------*/
+
+    /*======================== iv landing page start ===================*/
+    .iv-alternate-wrapper {
+        padding: calc(120px - 20px*3.6) 0 0 0;
+    }
+    .content-grid {
+        padding: calc(100px - 15px*5) calc(120px - 20px*3);
+        padding-right: 20px;
+    }
+    .design {
+        padding: calc(120px - 20px*4) 0;
+    }
+    .design-grid{
+        padding: 15px 15px;
+    }
+    .design .row [class*="col-"] {
+        padding: 0 12px;
+    }
+    .best-uses-container h3 {
+        margin-bottom: 20px;
+        font-size: 28px;
+    }
+    .iv-drip, .best-uses-wrapper{
+        width: 100%;
+    }
+    .best-uses-wrapper{
+        height: 400px;
+    }
+    .iv-drip-wraper {
+        padding-top: calc(56px - 10px*2);
+    }
+    .iv-drip-wraper .row [class*='col-'] {
+        margin-bottom: calc(30px - 5px*2);
+    }
+    /*======================== iv landing page end ===================*/
+
+    /*======================= tab package start ==========================*/
+    .tab-package {
+        padding: calc(80px - 13px*4) 0 0 0;
+    }
+    
+    .tab-package-slider-container {
+        margin-top: calc(50px - 8px*4);
+    }
+    .tab-package-slider-head h4 span {
+        height: calc(50px - 8px*1.3);
+        width: calc(50px - 8px*1.3);
+    }
+    #tile-1 .slider{
+        display: none;
+    }
+    .tab-package-wrapper .nav-tabs .nav-link.active{
+        background-image: linear-gradient(258.11deg, #0091D7 -19.72%, #821F9A 65.01%);
+        border-radius: 35px;
+    }
+    /*======================= tab package end ==========================*/
+}
+@media(max-width: 767px){
+    .banner {
+        padding: 32px 24px 0 44px;
+    }
+    .banner-head {
+        font-size: 30px;
+    }
+    .banner-span {
+        margin-top: 13px;
+    }
+    .banner-book-service {
+        margin: 20px 0 30px 0;
+    }
+    .banner-book-service .row [class*='col-']:nth-child(2), .banner-book-service .row [class*='col-']:nth-child(3){
+        padding-left: 12px;
+    }
+    .banner-book-service input, .custom-select{
+        margin-bottom: 15px;
+    }
+    .banner-book-service input {
+        padding: 11px 15px 11px 39px;
+    }
+    .location-icon {
+        top: 10px;
+        left: 12px;
+    }
+    .pt-215 {
+        padding-top: 30px;
+    }
+    .pr-155 {
+        padding-right: 25px;
+    }
+    .pl-180 {
+        padding-left: 25px;
+    }
+    .mobile-mt{
+        margin-top: 105px;
+    }
+    .service-grid {
+        padding: 37px 15px 20px 20px;
+        border: 1px solid rgba(0,0,0,0.07);
+    }
+    .service-grid .top-img {
+        top: -70px;
+    }
+    .laboratory .top-img, .vaccination .top-img{
+        top: -53px;
+    }
+    .mb-170 {
+        margin-bottom: 90px;
+    }
+    .pl-120 {
+        padding-left: 25px;
+    }
+    .pr-120 {
+        padding-right: 25px;
+    }
+    .pb-115 {
+        padding-bottom: 25px;
+    }
+    .pt-120 {
+        padding-top: 20px;
+    }
+    .pr-150 {
+        padding-right: 25px;
+    }
+    .testimonial-inner-container {
+        padding-left: 12px;
+        padding-right: 25px;
+        margin-top: 30px;
+    }
+    .testimonial-grid {
+        padding: 15px 15px 18px 18px;
+    }
+    .testimonial-content p{
+        line-height: 1.8;
+    }
+    .pb-160 {
+        padding-bottom: 25px;
+    }
+    .testimonial-inner-container{
+        margin-top: 25px;
+    }
+    .strip-contact {
+        padding: 17px 0 15px 35px;
+    }
+    .strip-contact a {
+        font-size: 20px;
+    }
+    .strip-contact p{
+        margin-bottom: 10px;
+    }
+    .owl-dots {
+        margin-top: 30px;
+    }
+    .footer-top {
+        padding: 25px 25px 20px 25px;
+    }
+    .credit{
+        padding: 14px 50px 16px 24px;
+    }
+    .section-head {
+        font-size: 23px;
+    }
+    .service-grid h3 {
+        font-size: 18px;
+    }
+    .ftr-contact{
+        padding: 13px 20px !important;
+    }
+    .footer-contact{
+        margin-top: 22px;
+    }
+    /*-------------------- about start ----------------*/
+    .pb-130 {
+        padding-bottom: 20px;
+    }
+    .pl-130 {
+        padding-left: 25px;
+    }
+    .pb-215 {
+        padding-bottom: 40px;
+    }
+    .pr-90 {
+        padding-right: 15px;
+    }
+    .one-stop-img{
+        margin-top: 40px;
+    }
+    .vision-mission-container {
+        padding: 16px 20px;
+        margin-bottom: 40px;
+    }
+    .mission-vision-inner [class*="col-"] {
+        padding-right: 20px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(2) {
+        padding-right: 20px;
+    }
+    .mission-vision-inner [class*="col-"]:nth-child(3) {
+        padding-left: 15px;
+    }
+    .core-value img {
+        height: 90px;
+    }
+    .mission img {
+        height: 90px;
+    }
+    .vision img {
+        height: 90;
+    }
+    .grid-content h4{
+        margin-bottom: 8px;
+    }
+    .mission-vision-inner [class*='col-']{
+        margin-bottom: 20px;
+    }
+    .mission-vision-inner [class*='col-']:last-child{
+        margin-bottom: 0;
+    }
+    p {
+        line-height: 2;
+    }
+    .pb-200 {
+        padding-bottom: 30px;
+    }
+    .pl-80 {
+        padding-left: 10px;
+    }
+     /*-------------------- about end ----------------*/
+
+     /*-------------------------- service start ---------------------*/
+     .nav .grid-service:last-child{
+         margin-right: 0 !important;
+     }
+     .grid-service{
+         width: 125px;
+         border: 0.05px solid #ebebeb !important; 
+         margin-right: 6px;
+     }
+     /* .nav.nav-pills{
+         justify-content: space-between;
+     } */
+     .nav-pills .grid-service:nth-child(even){
+         margin-left: 0;
+     }
+     .nav-pills .grid-service:nth-child(even){
+         margin-right: 6px;
+     }
+     .home-care-pill img {
+        height: 80px;
+    }
+    .pcr-test-pill img {
+        height: 75px;
+    }
+    .laboratory-pill img {
+        height: 63px;
+    }
+    .vaccination-pill img {
+        height: 56px;
+    }
+    .service-page-body {
+        padding-bottom: 40px;
+    }
+    /* .service-view .service-head {
+        font-size: 16px;
+    } */
+     /*-------------------------- services end ----------------------*/
+
+    /*---------------------------------- book appointment popup start ----------------*/
+     .book-appoinment .modal-dialog {
+        max-width: 501px;
+    }
+    .modal-header {
+        padding: 18px 28px 18px 50px;
+    }
+    .modal-title {
+        font-size: 18px;
+    }
+    .modal-body {
+        padding: 55px 66px 0 50px;
+    }
+    .book-appoinment fieldset .form-group:first-child {
+        margin-bottom: 21px;
+    }
+    .modal-content {
+        min-height: 600px;
+    }
+    .contact-form-container input, .contact-form-container textarea, .contact-form-container .select-selected {
+        padding: 14px 15px;
+    }
+    input[type="datetime-local"], input[type="date"]{
+        padding-left: 48px;
+    }
+    /*---------------------------------- book appointment popup end ----------------*/
+
+    /*--------------------------------- patient details popup start ----------------*/
+    .patient-details .pl-180 {
+        padding-left: 15px;
+    }
+    .form-revision {
+        padding: 26px 15px;
+        margin-top: 30px;
+    }
+    .max-width-603 {
+        max-width: 100%;
+    }
+    /*--------------------------------- patient details popup end ----------------*/
+
+    /*--------------------------------- testimonial start -----------------------*/
+    .testimonial-page {
+        padding-top: 30px;
+    }
+    .pr-225 {
+        padding-right: 48px;
+    }
+    .testimonial-page .pl-120{
+        padding-left: 15px;
+    }
+    .testimonial-grid.active{
+        margin-top: 20px;
+    }
+    /*-------------------------------- testimonial end -------------------------*/
+
+    /*--------------------------------- contact page start -------------------*/
+    .contact-page .banner{
+        height: auto;
+        padding: 20px 30px 20px 20px;
+    }
+    .contact-main-img{
+        margin: 20px 0;
+    }
+    .contact-form-container{
+        margin-top: 15px;
+    }
+    /*--------------------------------- contact page end -------------------*/
+
+    /*--------------------------------- blog start ---------------------------*/
+    
+    .blog-page{
+        padding-top: calc(70px - 10px*4);
+        padding-bottom: calc(60px - 10px*4);
+    }
+    .blog-grid{
+        margin-bottom: calc(42px - 7px);
+    }
+    .blog-wrapper{
+        margin-top: calc(50px - 8px*3);
+    }
+    /*--------------------------------- blog end -----------------------------*/
+
+    /*------------------------- single blog start ---------------*/
+    .recent-post {
+        padding-left: 0;
+        margin-top: calc(40px - 6px);
+    }
+    .recent-post h3{
+        margin-bottom: 15px;
+    }
+    /*------------------------- single blog end ---------------*/
+
+    /*======================== iv landing page start ===================*/
+    .iv-alternate-wrapper {
+        padding: calc(120px - 20px*4.5) 0 0 0;
+    }
+    .content-grid {
+        padding: 0 25px 30px 25px;
+    }
+    .design-grid{
+        margin-bottom: 20px;
+    }
+    .design .row [class*="col-"]:last-child .design-grid{
+        margin-bottom: 0;
+    }
+    .best-use-points{
+        padding: 10px 25px;
+    }
+    .best-uses-wrapper {
+        height: 330px;
+    }
+    /*======================== iv landing page end ===================*/
+}
+@media(max-width: 575px){
+    .pr-155 {
+        padding-right: 15px;
+    }
+    .pl-180 {
+        padding-left: 15px;
+    } 
+    .pr-65 {
+        padding-right: 15px;
+    }
+    .pl-65 {
+        padding-left: 15px;
+    }
+    .banner {
+        padding: 24px 20px 0 24px;
+    }
+    .banner-head {
+        font-size: 26px;
+    }
+    .banner-book-service {
+        margin: 20px 0 20px 0;
+    }
+    .pt-215 {
+        padding-top: 25px;
+    }
+    .pl-160 {
+        padding-left: 15px;
+    }
+    .pr-120 {
+        padding-right: 15px;
+    }
+    .pl-120 {
+        padding-left: 15px;
+    }
+    .pr-150 {
+        padding-right: 15px;
+    }
+    .testimonial-inner-container{
+        padding-right: 15px;
+        margin-top: 0;
+    }
+    .owl-dots {
+        margin-top: 25px;
+    }
+    .pb-115 {
+        padding-bottom: 20px;
+    }
+    .strip-contact a {
+        font-size: 16px;
+    }
+    .strip-inner img {
+        height: 120px;
+    }
+    .strip-icon {
+        height: 35px;
+        width: 35px;
+        left: -20px;
+        top: 23px;
+    }
+    .credit{
+        padding: 14px 15px 16px 15px;
+        display: block;
+    }
+    .credit p{
+        margin-bottom: 17px;
+    }
+    .credit ul li i{
+        font-size: 16px;
+    }
+    .icon-plus, .icon-plus-2{
+        width: 27px;
+    }
+    .beat, .beat-2, .beat-3 {
+        width: 12px;
+    }
+    .book-service.book-now {
+        padding: 10px 26px !important;
+    }
+    .footer-top {
+        padding: 25px 15px 20px 15px;
+    }
+    .footer-contact li{
+        line-height: 1.5;
+    }
+    .testimonial-slider .owl-stage-outer{
+        padding-top: 25px;
+        padding-bottom: 7px;
+    }
+    .about-us-content.pl-25{
+        padding-left: 0;
+    }
+    /*------------------- about start ---------------*/
+    .pl-130 {
+        padding-left: 15px;
+    }
+    .pb-215 {
+        padding-bottom: 30px;
+    }
+    .vision-mission-container{
+        margin-bottom: 30px;
+    }
+    /*------------------- about end -----------------*/
+
+    /*------------------- service start ---------------*/
+    .grid-service{
+        width: 48%;
+        margin-right: 0;
+        border: 0.5px solid rgba(0,0,0,0.04) !important;
+    }
+    .nav.nav-pills{
+         justify-content: space-between;
+     }
+     .nav-pills .grid-service:nth-child(even){
+        margin-right: 0;
+    }
+    .banner.service-banner{
+        padding-right: 24px;
+    }
+    /*------------------- service end ---------------*/
+
+     /*---------------------------------- book appointment popup start ----------------*/
+    .book-appoinment .modal-dialog {
+        max-width: 90%;
+    }
+    .modal-header {
+        padding: 18px 18px 18px 20px;
+    }
+    .modal-content{
+        transform: translateX(4%);
+    }
+    .modal-body {
+        padding: 35px 15px 35px 15px;
+    }
+    .modal-title {
+        font-size: 16px;
+    }
+    .contact-form-container input, .contact-form-container textarea, .contact-form-container .select-selected {
+        padding: 12px 15px;
+    }
+    input[type="datetime-local"], input[type="date"] {
+        padding-left: 48px;
+    }
+    .radio-btn-box label {
+        min-width: 125px;
+        padding: 12px 19px 12px 35px;
+    }
+    .checkmark{
+        top: 13px;
+    }
+    .select-selected.select-arrow-active:after, .select-selected:after {
+        top: 18px;
+    }
+    .modal-content{
+        min-height: auto;
+    }
+    /*---------------------------------- book appointment popup end ----------------*/
+    .book-success .modal-xl {
+        max-width: 90%;
+    }
+    .book-success .modal-content{
+        min-height: auto;
+    }
+
+    /*--------------------------------- testimonial start -----------------------*/
+    .pr-225 {
+        padding-right: 15px;
+    }
+    .testimonial-container {
+        padding: 15px 0 41px 0;
+    }
+    /* .testimonial-grid{
+        border: 0.1px solid rgba(7, 4, 159, 0.2);
+    } */
+    /*--------------------------------- testimonial end -----------------------*/
+
+    /*--------------------------------- contact page start -------------------*/
+    address {
+        margin: 15px 0 32px 0;
+    }
+    /*--------------------------------- contact page end -------------------*/
+
+    /*-------------------------------- blog start ------------------------*/
+    .thumbnail-img {
+        height: calc(270px - 45px*2.5);
+    }
+    .blog-wrapper {
+        margin-top: calc(50px - 8px*3.5);
+    }
+    .blog-grid {
+        margin-bottom: calc(42px - 7px*2);
+    }
+    .blog-title h3{
+        margin: 10px 0 8px 0;
+    }
+    /*-------------------------------- blog end -------------------------*/
+
+    /*------------------------- single blog start ---------------*/
+    .blog-head h1 {
+        font-size: calc(40px - 6px*3.2);
+        margin: 10px 0 calc(30px - 5px*2.5) 0;
+    }
+    .feature-img img {
+        height: calc(600px - 100px*4);
+    }
+    .single-content {
+        padding: calc(20px - 2px*7) 0 calc(40px - 6px*3) 0;
+    }
+    .single-img {
+        max-height: calc(450px - 75px*3);
+        margin: calc(30px - 5px*3.9) 0;
+    }
+    .recent-post-head h4 {
+        font-size: calc(18px - 3.5px);
+    }
+    /*------------------------- single blog end ---------------*/
+
+    /*--------------------- banner start ----------------*/
+    .banner-content-box{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent h2{
+        font-size: 25px;
+    }
+    /*--------------------- banner end ----------------*/
+
+    /*======================== iv landing page start ===================*/
+    .best-use-points {
+        padding: 9px 15px;
+        font-size: 14px;
+    }
+    .iv-drip-wraper .row [class*="col-"]:last-child .drip-item {
+        padding-left: 0;
+    }
+    .iv-drip {
+        padding: calc(50px - 8px*3) 15px;
+    }
+    /*======================== iv landing page end ===================*/
+}
+@media(max-width: 414px){
+   .mobile-mt [class*='col-']{
+       width: 93%;
+   } 
+   .mobile-mt {
+    margin-top: 95px;
+    }
+    .mb-170 {
+        margin-bottom: 75px;
+    }
+    .mt-180 {
+        margin-top: 25px;
+    }
+    .ab-left {
+        width: 100%;
+        height: 310px;
+        padding: 70px 25px 0 25px;
+    }
+    .mt-215 {
+        margin-top: 20px;
+    }
+    .pl-25 {
+        padding-left: 0px;
+    }
+    .strip-contact {
+        padding: 15px 0 15px 25px;
+    }
+    .strip-icon {
+        height: 28px;
+        width: 28px;
+        left: -15px;
+        top: 23px;
+    }
+    .strip-contact a {
+        font-size: 14px;
+    }
+    .contact-strip-inner {
+        height: 75px;
+    }
+    .strip-contact p{
+        font-size: 11px;
+    }
+    .strip-contact span img {
+        height: 14px;
+    }
+    .footer-contact{
+        margin-top: 23px;
+    }
+    .ftr-contact{
+        margin-bottom: 22px;
+    }
+    .quick-links ul li {
+        margin-bottom: 15px;
+    }
+    .about-us .wave{
+        height: 300px;
+    }
+
+    /*--------------------------------- patient details popup start ----------------*/
+    .form-revision .revision-grid:nth-child(2) {
+        padding-top: 25px;
+    }
+    .revision-grid{
+        display: block !important;
+    }
+    .left-box{
+        margin-bottom: 9px;
+    }
+    /*--------------------------------- patient details popup end ----------------*/
+    .contact-page .phone-num-box .phone-separate{
+        display: inline;
+    }
+    .contact-page .phone-num-box a:last-child{
+        padding-left: 2px;
+    }
+
+    /*-------------- banner start ---------------*/
+    .sevicebnrSection{
+        height: calc(806px - 134px*3.5);
+    }
+    .sevicebnrSection .bannerRow .banner-content-box h2 span{
+        font-size: 14px;
+        padding: 7px 15px;
+    }
+    .SevicebannerSection .bannerRow .bannerContent p {
+        font-size: 18px;
+        line-height: normal;
+        max-width: 100%;
+    }
+    
+    .SevicebannerSection .bannerRow .bannerContent h2{
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    /*-------------- banner end ---------------*/
+}
+
+/*====================== fullbody checkup banner start ================*/
+@media(max-width: 1600px){
+    .full-body-banner h1{
+        font-size: calc(66px - 10px);
+        margin-bottom: 10px;
+    }
+    .f-body{
+        font-size: calc(112px - 18px);
+    }
+    .at-home{
+        font-size: calc(56px - 9px);
+    }
+    .package-start{
+        font-size: calc(26px - 4px);
+    }
+    .banner-price{
+        font-size: calc(54px - 8px);
+        padding: 15px 30px;
+        padding-right: calc(114px - 19px);
+    }
+    .go-arrow{
+        height: 76px;
+        width: 76px;
+        font-size: calc(32px - 5px);
+    }
+}
+@media(max-width: 1400px){
+    .full-body-banner h1{
+        font-size: calc(66px - 10px*2);
+        margin-bottom: 10px;
+    }
+    .f-body{
+        font-size: calc(112px - 18px*2);
+    }
+    .at-home{
+        font-size: calc(56px - 9px*2);
+    }
+    .package-start{
+        font-size: calc(26px - 4px*2);
+    }
+    .banner-price{
+        font-size: calc(54px - 8px*2);
+        padding: 13px 30px;
+        padding-right: calc(114px - 19px*1.9);
+    }
+    .go-arrow{
+        height: 64px;
+        width: 64px;
+        font-size: calc(32px - 5px*2);
+    }
+}
+@media(max-width: 991px){
+    .full-body-banner h1{
+        font-size: calc(66px - 10px*3);
+        margin-bottom: 10px;
+    }
+    .f-body{
+        font-size: calc(112px - 18px*3);
+    }
+    .at-home{
+        font-size: calc(56px - 9px*3);
+    }
+    .package-start{
+        font-size: calc(26px - 4px*3);
+    }
+    .banner-price{
+        font-size: calc(54px - 8px*3);
+        padding: 13px 25px;
+        padding-right: calc(114px - 19px*2.2);
+    }
+    .go-arrow{
+        height: 56px;
+        width: 56px;
+        font-size: calc(32px - 5px*3);
+    }
+}
+@media(max-width: 414px){
+    .full-body-banner h1{
+        font-size: calc(66px - 10px*4.2);
+        margin-bottom: 10px;
+    }
+    .f-body{
+        font-size: calc(112px - 18px*4);
+    }
+    .at-home{
+        font-size: calc(56px - 9px*4);
+    }
+    .package-start{
+        font-size: calc(26px - 4px*3);
+    }
+    .banner-price{
+        font-size: calc(54px - 8px*4);
+        padding: 13px 20px;
+        padding-right: calc(114px - 19px*3);
+    }
+    .go-arrow{
+        height: 48px;
+        width: 48px;
+        font-size: calc(32px - 5px*4);
+    }
+}
+/*====================== fullbody checkup banner end ================*/
+
+/*==================== DNA test start ====================*/
+@media(max-width: 1600px){
+    .dna-banner h1{
+        font-size: calc(66px - 10px);
+    }
+    .dna-test-booking{
+        padding: calc(18px - 2px) calc(60px - 10px);
+        font-size: calc(20px - 2px);
+    }
+    .dna-packages{
+        margin-top: calc(80px - 13px);
+    }
+    .dna-row{
+        margin-top: calc(40px - 6px);
+    }
+    .dna-package-details h3{
+        font-size: 24px;
+    }
+    .dna-package-details p{
+        font-size: 16px;
+    }
+    .dna-package-details ul{
+        margin-top: calc(30px - 5px);
+    }
+    .dna-package-details ul li{
+        font-size: 14px;
+    }
+    .dna-package-image img{
+        max-height: calc(550px - 90px);
+    }
+    .dna-row .row:last-child{
+        margin-top: calc(84px - 14px);
+    }
+}
+@media(max-width: 1400px){
+    .dna-banner h1{
+        font-size: calc(66px - 10px*2);
+    }
+    .dna-test-booking{
+        padding: calc(18px - 2px*2) calc(60px - 10px*2);
+        font-size: calc(20px - 2px*1.5);
+    }
+    .dna-packages{
+        margin-top: calc(80px - 13px*2);
+    }
+    .dna-row{
+        margin-top: calc(40px - 6px*2);
+    }
+    .dna-package-details h3{
+        font-size: 22px;
+    }
+    .dna-package-details p{
+        font-size: 16px;
+    }
+    .dna-package-details ul{
+        margin-top: calc(30px - 5px*2);
+    }
+    .dna-package-details ul li{
+        font-size: 14px;
+    }
+    .dna-package-image img{
+        max-height: calc(550px - 90px*2);
+    }
+    .dna-row .row:last-child{
+        margin-top: calc(84px - 14px*2);
+    }
+}
+@media(max-width: 1199px){
+    .dna-banner h1{
+        font-size: calc(66px - 10px*2.5);
+    }
+    .dna-test-booking{
+        padding: calc(18px - 2px*2.2) calc(60px - 10px*2.2);
+        font-size: calc(20px - 2px*1.9);
+    }
+    .dna-row .row:last-child{
+        margin-top: calc(84px - 14px*4);
+    }
+}
+@media(max-width: 991px){}
+@media(max-width: 767px){
+    .dna-banner h1{
+        font-size: calc(66px - 10px*3);
+    }
+    .dna-test-booking{
+        padding: calc(18px - 2px*2.5) calc(60px - 10px*2.5);
+        font-size: calc(20px - 2px*2.3);
+    }
+    .text-wrapper-image{
+        right: 0;
+    }
+    .desc-text-wraper-box{
+        padding: 30px 30px;
+        padding-bottom: 60px;
+        border-radius: 30px;
+    }
+    .text-wrapper-image{
+        height: 236px;
+        margin-top: -36px;
+    }
+    .dna-packages {
+        margin-top: calc(80px - 13px*4);
+    }
+    .dna-package-details h3{
+        font-size: 20px;
+    }
+    .dna-package-details p {
+        font-size: 15px;
+    }
+    .dna-package-image{
+        text-align: center;
+    }
+    .dna-package-image img {
+        max-height: calc(550px - 90px*3);
+    }
+    .dna-row .row:nth-child(even) .dna-package-image{
+        text-align: center;
+    }
+}
+@media(max-width: 575px){}
+@media(max-width: 414px){
+    .dna-banner h1{
+        font-size: calc(66px - 10px*3.6);
+        margin-bottom: 10px;
+    }
+    .dna-test-booking{
+        padding: calc(18px - 2px*2.5) calc(60px - 10px*2.5);
+        font-size: calc(20px - 2px*2.5);
+    }
+    .desc-text-wraper-box{
+        padding: 0;
+        border-radius: 0;
+        background-color: transparent;
+    }
+    .text-wrapper-image{
+        margin-top: 20px;
+        border-radius: 15px;
+    }
+    .dna-packages {
+        margin-top: calc(80px - 13px*4.5);
+    }
+    .dna-package-image img {
+        max-height: calc(550px - 90px*3.5);
+    }
+}
+/*==================== DNA test end ====================*/
+
+/*===================== glutathione iv drip start ==================*/
+@media(max-width: 1600px){
+    .section-p p{
+        font-size: 18px;
+    }
+    .following-points{
+        padding: calc(90px - 15px) calc(80px - 13px) calc(90px - 15px) 0;
+    }
+    .following-points h6{
+        font-size: calc(20px - 2px);
+    }
+    .mb-80{
+        margin-bottom: calc(80px - 13px);
+    }
+    .iv h3{
+        font-size: calc(58px - 9px);
+    }
+    .iv h3 .old-iv-price{
+        font-size: calc(30px - 5px);
+    }
+}
+@media(max-width: 1400px){
+    .section-p p{
+        font-size: 16px;
+    }
+    .following-points{
+        padding: calc(90px - 15px*2) calc(80px - 13px*2) calc(90px - 15px*2) 0;
+    }
+    .following-points h6{
+        font-size: calc(20px - 2px*2);
+    }
+    .mb-80{
+        margin-bottom: calc(80px - 13px*2);
+    }
+    .iv h3{
+        font-size: calc(58px - 9px*2);
+    }
+    .iv h3 .old-iv-price{
+        font-size: calc(30px - 5px*2);
+    }
+}
+@media(max-width: 1199px){
+    .sevicebnrSection {
+        height: calc(806px - 134px*3);
+    }
+    .following-points{
+        padding: calc(90px - 15px*3) calc(80px - 13px*3) calc(90px - 15px*3) 0;
+    }
+    .mb-80 {
+        margin-bottom: calc(80px - 13px*3);
+    }
+}
+@media(max-width: 767px){
+    .sevicebnrSection {
+        height: calc(806px - 134px*4);
+    }
+    .following-points{
+        padding: calc(90px - 15px*4) calc(80px - 13px*4) calc(90px - 15px*4) 0;
+    }
+    .section-p p{
+        font-size: 15px;
+    }
+    .iv h3{
+        font-size: calc(58px - 9px*3);
+    }
+    .iv h3 .old-iv-price{
+        font-size: calc(30px - 5px*3);
+    }
+    .iv.dna-banner h1{
+        margin-bottom: 12px;
+    }
+    .iv-image{
+        padding-bottom: 50px;
+    }
+}
+@media(max-width: 575px){
+    .iv-image{
+        padding-bottom: 30px;
+    }
+    .mb-80 {
+        margin-bottom: calc(80px - 13px*5);
+    }
+}
+/*===================== glutathione iv drip end ==================*/
+
+/*===================== fullbody package start ===================*/
+@media(max-width: 1600px){
+    .package-new{
+        padding: calc(30px - 5px) 0px;
+    }
+    .pack-icon{
+        width: calc(80px - 12px*1.5);
+        height: calc(80px - 12px*1.5);
+        font-size: calc(30px - 5px*1.5);
+    }
+    .package-heading{
+        font-size: calc(28px - 4px);
+        line-height: 1.7;
+    }
+    .pack-price{
+        font-size: calc(26px - 2px);
+    }
+    .pack-new-book{
+        padding: 13px calc(30px - 5px);
+    }
+    .package-content ul li p{
+        font-size: 14px;
+    }
+}
+@media(max-width: 1400px){
+    .package-new{
+        padding: calc(30px - 5px*1.3) 0px;
+    }
+    .pack-icon{
+        width: calc(80px - 12px*1.5);
+        height: calc(80px - 12px*1.5);
+        font-size: calc(30px - 5px*1.5);
+    }
+    .package-heading{
+        font-size: calc(28px - 4px*1.8);
+        line-height: 1.7;
+    }
+    .pack-price{
+        font-size: calc(26px - 2px*1.5);
+    }
+    .pack-new-book{
+        padding: 13px calc(30px - 5px*1.5);
+    }
+}
+/*===================== fullbody package end ===================*/
+
+/*===================== fullbody package new ui start =====================*/
+@media(max-width: 1600px){
+    .tab-package-slider-head {
+        padding: 20px 15px 20px 30px;
+    }
+    .tab-package-slider-content ul li{
+        padding: 4px 0;
+    }
+}
+@media(max-width: 991px){
+    .tab-package-slider-head {
+        padding: 20px 15px 15px 15px;
+    }
+}
+@media(max-width: 767px){
+    .tab-package-slider-head {
+        padding: 10px 15px 15px 15px;
+    }
+    .tab-package-slider-container .row [class*="col-"]{
+        border: none;
+        margin-top: 0;
+    }
+    .tab-package-slider-item ul{
+        border-bottom: 1px solid rgba(0,0,0,0.1);
+        border-radius: 0;
+        padding-bottom: 18px;
+    }
+    .tab-package-slider-container .row [class*="col-"]:last-child .tab-package-slider-item:last-child ul{
+        border: none;
+    }
+}
+/*===================== fullbody package new ui end =====================*/
+
+/*===================== Get doctor consultation start =====================*/
+@media(max-width: 1600px){
+    .b-img{
+        width: calc(914px - 152px);
+    }
+    .get-doctor-banner{
+        height: calc(772px - 128px);
+        padding: 0 calc(87px - 14px) 0 calc(208px - 34px);
+    }
+    .get-doctor-banner h1{
+        font-size: calc(55px - 9px);
+    }
+    .get-doctor-banner p{
+        font-size: calc(26px - 4px);
+    }
+    .get-doctor-banner a{
+        width: calc(231px - 38px);
+        height: calc(64px - 10px);
+        font-size: calc(18px - 2px);
+    }
+    .calender {
+        left: calc(9rem - 1.5rem);
+        bottom: calc(6rem - 1rem);
+        height: calc(79px - 13px);
+        width: calc(79px - 13px);
+    }
+    .chat {
+        right: calc(9rem - 1.5rem);
+        top: calc(18rem - 3rem);
+        height: calc(63px - 10px);
+        width: calc(63px - 10px);
+    }
+    .credit-container {
+        padding: 0 calc(185px - 30px);
+        margin: calc(96px - 16px) 0 calc(120px - 20px) 0;
+    }
+    .c-grid-span, .approved-by{
+        font-size: calc(22px - 3px);
+    }
+    .c-grid{
+        padding: 0 calc(2.9vw - 0.4vw);
+    }
+    .c-grid.one img{
+        width: calc(340px - 56px);
+    }
+    .c-grid.two img{
+        width: calc(119px - 19px);
+    }
+    .c-grid.three img{
+        width: calc(145px - 24px);
+    }
+    .c-grid.four img{
+        width: calc(191px - 31px);
+    }
+    .credit-container ul li::after{
+        height: calc(156px - 26px);
+    }
+    .cydr-content {
+        padding: calc(94px - 15px) calc(9vw - 1.5vw) calc(94px - 15px) calc(10vw - 2vw);
+    }
+    .cydr-content h2{
+        font-size: calc(55px - 9px);
+        margin-bottom: calc(60px - 10px);
+    }
+    .cydr-content p{
+        font-size: calc(22px - 3px);
+        margin-bottom: calc(36px - 6px);
+    }
+    .how-it-works{
+        padding: calc(125px - 20px) 0 calc(160px - 26px) 0;
+    }
+    .h-i-w-grid-wrapper{
+        padding-top: calc(80px - 13px);
+    }
+    .h-i-w-icon{
+        margin-bottom: 21px;
+    }
+    .h-i-w-icon img{
+        height: calc(125px - 20px);
+    }
+    .h-i-w-content h4{
+        font-size: calc(34px - 4px);
+    }
+    .h-i-w-content p{
+        font-size: calc(18px - 2px);
+        max-width: 220px;
+    }
+    .h-i-w-grid{
+        padding-left: calc(55px - 9px);
+    }
+    .h-w-ab {
+        top: 2.2rem;
+        right: -45px;
+    }
+    .what-we-offer {
+        padding: calc(90px - 15px) 0 calc(53px - 8px) 0;
+    }
+    .section-para{
+        font-size: calc(18px - 2px);
+    }
+    .what-we-offer-grid-wrapper {
+        margin-top:calc(100px - 15px);
+    }
+    .what-we-offer-grid-wrapper .row [class*="col-"] {
+        padding: 0 calc(25px - 4px);
+        margin-bottom: calc(70px - 10px);
+    }
+    .what-we-offer-grid-content {
+        padding: calc(36px - 6px) calc(42px - 7px) calc(36px - 6px) calc(42px - 7px);
+    }
+    .what-we-offer-grid-content p{
+        font-size: 18px;
+    }
+    .ab-label {
+        top: -25px;
+        padding: 10px;
+        width: 234px;
+        font-size: 16px;
+    }
+    .why-choose {
+        padding: calc(120px - 20px) 0 calc(93px - 15px) 0;
+    }
+    .why-choose .light-gray{
+        height: calc(448px - 74px);
+    }
+    .why-choose-grid-container{
+        margin-top: calc(75px - 12.5px);
+    }
+    .why-choose-grid-item{
+        padding: calc(36px - 6px) calc(36px - 6px) calc(24px - 4px) calc(36px - 6px);
+        border-radius: 18px;
+        max-width: 250px;
+        margin-right: calc(72px - 12px);
+    }
+    .why-choose-icon img{
+        width: 88px;
+    }
+    .why-choose-grid-item p{
+        font-size: calc(20px - 2px);
+    }
+    .advantages-of-dr-visit {
+        padding: calc(93px - 15px) 8vw calc(100px - 15px) 8vw;
+    }
+    .advantages-of-dr-visit-grid-wrapper {
+        margin-top: calc(95px - 15px);
+    }
+    .advantages-of-dr-visit-grid {
+        padding: calc(30px - 5px) calc(44px - 7px) calc(70px - 11px) calc(50px - 8px);
+    }
+    .visit-icon img{
+        width: 43px;
+    }
+    .advantages-of-dr-visit-grid h5{
+        font-size: 20px;
+    }
+    .advantages-of-dr-visit-grid-wrapper .row [class*="col-"] {
+        margin-bottom: 25px;
+    }
+    .what-people-say{
+        padding: calc(60px - 10px) 0;
+    }
+    .ab-quote {
+        height: calc(50px - 8px);
+        width: calc(50px - 8px);
+        top: -25px;
+        left: calc(48px - 8px);
+    }
+    .say-grid-item{
+        padding: calc(48px - 8px) calc(48px - 8px);
+    }
+    .say-grid-item p{
+        font-size: calc(18px - 2px);
+    }
+    .user-review{
+        margin-top: calc(32px - 5px);
+    }
+    .user-image {
+        height: calc(56px - 9px);
+        width: calc(56px - 9px);
+        margin-right: 15px;
+    }
+    .user-name{
+        font-size: calc(20px - 2px);
+    }
+    .user-designation {
+        margin-top: 5px;
+        font-size: 14px !important;
+        line-height: 19px !important;
+    }
+    .what-people-say-slider .owl-nav .owl-next, .what-people-say-slider .owl-nav .owl-prev {
+        height: calc(48px - 8px);
+        width: calc(48px - 8px);
+        top: 7rem;
+    }
+    .what-people-say-slider-container {
+        padding: calc(38px - 6px) 0 0 0;
+    }
+    .what-people-say-slider .owl-dots {
+        margin-top: calc(36px - 6px);
+    }
+    .faqRow .contactForm .contact .form-group textarea {
+        height: calc(178px - 29px);
+        padding: 18px 15px;
+        margin-top: 15px;
+    }
+    .banner-wave{
+        bottom: -13rem;
+        right: -13rem;
+    }
+}
+@media(max-width: 1400px){
+    .b-img{
+        width: calc(914px - 152px*1.5);
+    }
+    .get-doctor-banner{
+        height: calc(772px - 128px*2);
+        padding: 0 calc(87px - 14px*2) 0 calc(208px - 34px*2);
+    }
+    .get-doctor-banner h1{
+        font-size: calc(55px - 9px*2);
+    }
+    .get-doctor-banner a{
+        width: calc(231px - 38px*2);
+        height: calc(64px - 10px*2);
+        font-size: calc(18px - 2px*2);
+    }
+    .calender {
+        left: calc(9rem - 1.5rem*2);
+        bottom: calc(6rem - 1rem*2);
+        height: calc(79px - 13px*2);
+        width: calc(79px - 13px*2);
+    }
+    .chat {
+        right: calc(9rem - 1.5rem*1.5);
+        top: calc(18rem - 3rem*1.5);
+        height: calc(63px - 10px*1.5);
+        width: calc(63px - 10px*1.5);
+    }
+    .get-doctor-banner p{
+        font-size: calc(26px - 4px*2);
+    }
+    .credit-container {
+        padding: 0 calc(185px - 30px*2);
+        margin: calc(96px - 16px*2) 0 calc(120px - 20px*2) 0;
+    }
+    .c-grid-span, .approved-by{
+        font-size: calc(22px - 3px*2);
+    }
+    .c-grid.one img{
+        width: calc(340px - 56px*2);
+    }
+    .c-grid.two img{
+        width: calc(119px - 19px*2);
+    }
+    .c-grid.three img{
+        width: calc(145px - 24px*2);
+    }
+    .c-grid.four img{
+        width: calc(191px - 31px*2);
+    }
+    .approved-by {
+        left: 18px;
+        top: 2.5rem;
+    }
+    .credit-container ul li::after{
+        height: calc(156px - 26px*2);
+    }
+    .cydr-content {
+        padding: calc(94px - 15px*2) calc(9vw - 1.5vw) calc(94px - 15px*2) calc(10vw - 2vw);
+    }
+    .cydr-content h2{
+        font-size: calc(55px - 9px*2);
+        margin-bottom: calc(60px - 10px*2);
+    }
+    .cydr-content p{
+        font-size: calc(22px - 3px*2);
+        margin-bottom: calc(36px - 6px*2);
+    }
+    .how-it-works{
+        padding: calc(125px - 20px*2) 0 calc(160px - 26px*2) 0;
+        max-width: 1100px;
+    }
+    .h-i-w-grid-wrapper{
+        padding-top: calc(80px - 13px*2);
+    }
+    .h-i-w-icon img{
+        height: calc(125px - 20px*2);
+    }
+    .h-i-w-content h4{
+        font-size: calc(34px - 4px*2);
+    }
+    .h-i-w-content p{
+        font-size: calc(18px - 2px*2);
+        max-width: 220px;
+    }
+    .h-w-ab img{
+        width: 83%;
+    }
+    .h-i-w-grid{
+        padding-left: calc(55px - 9px*2);
+    }
+    .h-w-ab {
+        top: 2rem;
+        right: -102px;
+    }
+    .what-we-offer {
+        padding: calc(90px - 15px*2) 0 calc(53px - 8px*2) 0;
+    }
+    .section-para{
+        font-size: calc(18px - 2px*2);
+    }
+    .what-we-offer-grid-wrapper {
+        margin-top:calc(100px - 15px*2);
+    }
+    .what-we-offer-grid-wrapper .row [class*="col-"] {
+        padding: 0 calc(25px - 4px*2);
+        margin-bottom: calc(70px - 10px);
+    }
+    .what-we-offer-grid-content {
+        padding: calc(36px - 6px*2) calc(42px - 7px*2) calc(36px - 6px*2) calc(42px - 7px*2);
+    }
+    .what-we-offer-grid-content p{
+        font-size: 16px;
+    }
+    .ab-label {
+        top: -25px;
+        padding: 10px;
+        width: 234px;
+        font-size: 15px;
+    }
+    .what-we-offer-container{
+        max-width: 1100px;
+    }
+    .why-choose {
+        padding: calc(120px - 20px*2) 0 calc(93px - 15px*2) 0;
+    }
+    .why-choose .light-gray {
+        height: calc(448px - 74px*2);
+    }
+    .why-choose-grid-container{
+        margin-top: calc(75px - 12.5px*2);
+    }
+    .why-choose-grid-item{
+        padding: calc(36px - 6px*2) calc(36px - 6px*2) calc(24px - 4px*2) calc(36px - 6px*2);
+        border-radius: 16px;
+        max-width: 210px;
+        margin-right: calc(72px - 12px*2);
+    }
+    .why-choose-icon img{
+        width: calc(88px - 15px);
+    }
+    .why-choose-grid-item p{
+        font-size: calc(20px - 2px*2);
+    }
+    .advantages-of-dr-visit {
+        padding: calc(93px - 15px*2) 8vw calc(100px - 15px*2) 8vw;
+    }
+    .advantages-of-dr-visit-grid-wrapper {
+        margin-top: calc(95px - 15px*2);
+    }
+    .advantages-of-dr-visit-grid {
+        padding: calc(30px - 5px*2) calc(44px - 7px*2) calc(70px - 11px*2) calc(50px - 8px*2);
+    }
+    .visit-icon img{
+        width: 36px;
+    }
+    .advantages-of-dr-visit-grid h5{
+        font-size: 20px;
+    }
+    .advantages-of-dr-visit-grid-wrapper .row [class*="col-"] {
+        margin-bottom: 25px;
+    }
+    .what-people-say{
+        padding: calc(60px - 10px*2) 0;
+    }
+    .what-people-say-container{
+        max-width: 1130px;
+    }
+    .ab-quote img{
+        width: 18px !important;
+    }
+    .say-grid-item{
+        padding: calc(48px - 8px*2) calc(48px - 8px*2);
+    }
+    .say-grid-item p{
+        font-size: calc(18px - 2px*1.5);
+    }
+    .user-review{
+        margin-top: calc(32px - 5px*2);
+    }
+    .user-name{
+        font-size: calc(20px - 2px*1.5);
+    }
+    .user-designation {
+        margin-top: 3px;
+    }
+    .what-people-say-slider .owl-nav .owl-next, .what-people-say-slider .owl-nav .owl-prev {
+        height: calc(48px - 8px*1.5);
+        width: calc(48px - 8px*1.5);
+        top: 7rem;
+    }
+    .what-people-say-slider-container {
+        padding: calc(38px - 6px*2) 0 0 0;
+    }
+    .what-people-say-slider .owl-dots {
+        margin-top: calc(36px - 6px*2);
+    }
+    .faqRow .contactForm .contact .form-group textarea {
+        height: calc(178px - 29px*2);
+        padding: 18px 15px;
+        margin-top: 15px;
+    }
+    .banner-wave{
+        bottom: -11rem;
+        right: -11rem;
+    }
+}
+@media(max-width: 1199px){
+    .b-img{
+        width: calc(914px - 152px*2.4);
+    }
+    .get-doctor-banner{
+        height: calc(870px - 145px*3);
+        padding: 0 calc(87px - 14px*3) 0 calc(208px - 34px*3);
+    }
+    .get-doctor-banner h1{
+        font-size: calc(55px - 9px*3);
+    }
+    .get-doctor-banner a {
+        width: calc(231px - 38px*2.5);
+        height: calc(64px - 10px*2.5);
+        font-size: calc(18px - 2px*2.1);
+    }
+    .chat {
+        right: calc(9rem - 1.5rem*2);
+        top: calc(18rem - 3rem*3);
+        height: calc(63px - 10px*1.5);
+        width: calc(63px - 10px*1.5);
+    }
+    /* .calender {
+        left: calc(9rem - 1.5rem*3);
+        bottom: calc(6rem - 1rem*3);
+        height: calc(79px - 13px*3);
+        width: calc(79px - 13px*3);
+    }
+     */
+    .get-doctor-banner p{
+        font-size: calc(26px - 4px*3);
+    }  
+    .credit-container {
+        padding: 0 calc(185px - 30px*3);
+        margin: calc(96px - 16px*3) 0 calc(120px - 20px*3) 0;
+    }
+    .c-grid-span, .approved-by{
+        font-size: calc(22px - 3px*3);
+    }
+    .c-grid.one img{
+        width: calc(340px - 56px*3);
+    }
+    .c-grid.two img{
+        width: calc(119px - 19px*3);
+    }
+    .c-grid.three img{
+        width: calc(145px - 24px*3);
+    }
+    .c-grid.four img{
+        width: calc(191px - 31px*3);
+    }
+    .approved-by {
+        left: 13px;
+        top: 1.9rem;
+    }
+    .credit-container ul li::after{
+        height: calc(156px - 26px*3);
+    }
+    .cydr-content {
+        padding: calc(94px - 15px*3) calc(9vw - 1.5vw) calc(94px - 15px*3) calc(10vw - 2vw);
+    }
+    .cydr-content h2{
+        font-size: calc(55px - 9px*3);
+        margin-bottom: calc(60px - 10px*3);
+    }
+    .cydr-content p{
+        font-size: 14px;
+        margin-bottom: calc(36px - 6px*3);
+    }
+    .how-it-works{
+        padding: calc(125px - 20px*3) 0 calc(160px - 26px*3) 0;
+        max-width: 900px;
+    }
+    .h-i-w-grid-wrapper{
+        padding-top: calc(80px - 13px*3);
+    }
+    .h-i-w-icon img{
+        height: calc(125px - 20px*2.5);
+    }
+    .h-i-w-content h4{
+        font-size: calc(34px - 4px*3);
+    }
+    .h-w-ab img {
+        width: 61%;
+    }
+    .h-w-ab {
+        top: 1.2rem;
+        right: -167px;
+    }
+    .what-we-offer {
+        padding: calc(90px - 15px*3) 0 calc(53px - 8px*3) 0;
+    }
+    .what-we-offer-container {
+        max-width: 900px;
+    }
+    .what-we-offer-grid-wrapper {
+        margin-top:calc(100px - 15px*2.5);
+    }
+    .what-we-offer-grid-wrapper .row [class*="col-"] {
+        padding: 0 calc(25px - 4px*3);
+        margin-bottom: calc(70px - 10px*2);
+    }
+    .what-we-offer-grid-content {
+        padding: calc(36px - 6px*3) calc(42px - 7px*3) calc(36px - 6px*3) calc(42px - 7px*3);
+    }
+    .what-we-offer-grid-content p{
+        font-size: 14px;
+    }
+    .what-we-offer-grid-image{
+        height: calc(350px - 50px);
+    }
+    .ab-label {
+        width: calc(234px - 10px*2);
+        font-size: 14px;
+    }
+    .why-choose {
+        padding: calc(120px - 20px*3) 0 calc(93px - 15px*3) 0;
+    }
+    .why-choose .light-gray {
+        height: calc(448px - 74px*3);
+    }
+    .why-choose-grid-container{
+        margin-top: calc(75px - 12.5px*3);
+    }
+    .why-choose-container {
+        max-width: 930px;
+        padding: 0 15px;
+    }
+    .why-choose-grid-item{
+        padding: calc(36px - 6px*3) calc(36px - 6px*3) calc(24px - 4px*3) calc(36px - 6px*3);
+        border-radius: 16px;
+        max-width: 210px;
+        margin-right: calc(72px - 12px*3);
+    }
+    .why-choose-icon img{
+        width: calc(88px - 15px*2);
+    }
+    .why-choose-grid-item p{
+        font-size: calc(20px - 2px*2.5);
+    }
+    .advantages-of-dr-visit {
+        padding: calc(93px - 15px*3) 8vw calc(100px - 15px*3) 8vw;
+    }
+    .advantages-of-dr-visit-grid-wrapper {
+        margin-top: calc(95px - 15px*3);
+    }
+    .advantages-of-dr-visit-grid {
+        padding: calc(30px - 5px*2.3) calc(44px - 7px*2.3) calc(70px - 11px*2.3) calc(50px - 8px*2.3);
+    }
+    .visit-icon img{
+        width: 34px;
+    }
+    .advantages-of-dr-visit-grid h5{
+        font-size: 18px;
+    }
+    .what-people-say{
+        padding: calc(60px - 10px*3) 0;
+    }
+    .what-people-say-container{
+        max-width: 900px;
+    }
+    .ab-quote img{
+        width: 16px !important;
+    }
+    .say-grid-item{
+        padding: calc(48px - 8px*3) calc(48px - 8px*3);
+    }
+    .user-name{
+        font-size: calc(20px - 2px*1.9);
+    }
+    .user-designation{
+        font-size: 13px !important;
+    }
+    .what-people-say-slider .owl-dots {
+        margin-top: calc(36px - 6px*3);
+    }
+    .faqRow .contactForm .contact .form-group textarea {
+        height: calc(178px - 29px*2.5);
+        padding: 15px 15px;
+    }
+    .faqRow .contactForm .contact .form-group textarea::placeholder{
+        font-size: 16px;
+    }
+    .banner-wave{
+        bottom: -9rem;
+        right: -9rem;
+    }
+}
+@media(max-width: 991px){
+    .b-img{
+        width: calc(914px - 152px*3.2);
+    }
+    .get-doctor-banner{
+        height: auto;
+        padding: 40px calc(87px - 14px*4) 0 calc(208px - 34px*4);
+    }
+    .get-doctor-banner a{
+        margin-top: 15px;
+    }
+    .credit-container {
+        padding: 0 calc(185px - 30px*4);
+        margin: calc(96px - 16px*4) 0 calc(120px - 20px*4) 0;
+    }
+    .credit-container ul li::after{
+        height: 80px;
+    }
+    .c-grid.one img{
+        width: calc(340px - 56px*3.5);
+    }
+    .c-grid.two img{
+        width: calc(119px - 19px*3.5);
+    }
+    .c-grid.three img{
+        width: calc(145px - 24px*3.5);
+    }
+    .c-grid.four img{
+        width: calc(191px - 31px*3.5);
+    }
+    .approved-by {
+        left: 13px;
+        top: 1.3rem;
+    }
+    .cydr-content {
+        padding: calc(94px - 15px*4) calc(9vw - 1.5vw*2) calc(94px - 15px*4) calc(10vw - 2vw*2);
+    }
+    .cydr-content h2{
+        font-size: calc(55px - 9px*3.5);
+        margin-bottom: calc(60px - 10px*4);
+    }
+    .how-it-works{
+        padding: calc(125px - 20px*4) 15px calc(160px - 26px*4) 12px;
+        max-width: 900px;
+    }
+    .h-i-w-grid-wrapper{
+        padding-top: calc(80px - 13px*4);
+    }
+    .h-i-w-icon img{
+        height: calc(125px - 20px*3);
+    }
+    .h-i-w-icon {
+        margin-bottom: 15px;
+    }
+    .h-i-w-content h4{
+        font-size: calc(34px - 4px*3.5);
+    }
+
+
+    .what-we-offer {
+        padding: calc(90px - 15px*4) 0 calc(53px - 8px*4) 0;
+    }
+    .what-we-offer-container{
+        padding: 0 15px;
+    }
+    .what-we-offer-grid-image {
+        height: calc(350px - 50px*1.7);
+    }
+    .ab-label{
+        font-size: 13px;
+        width: calc(234px - 10px*5);
+    }
+    .what-we-offer-grid-content {
+        padding: 15px 15px;
+    }
+    .why-choose {
+        padding: calc(120px - 20px*4) 0 calc(93px - 15px*4) 0;
+    }
+    .why-choose-grid-item p {
+        font-size: calc(20px - 2px*2.9);
+    }
+    .why-choose .light-gray{
+        height: 220px;
+    }
+    .why-choose-icon img {
+        width: calc(88px - 15px*2.5);
+    }
+    .advantages-of-dr-visit {
+        padding: calc(93px - 15px*4) 4vw calc(100px - 15px*4) 4vw;
+    }
+    .advantages-of-dr-visit-grid p{
+        line-height: 1.8;
+    }
+    .what-people-say-slider-container {
+        padding: calc(38px - 6px*2.5) 0 0 0;
+    }
+    .what-people-say-container {
+        max-width: 90%;
+    }
+    .say-grid-item p{
+        line-height: 1.7;
+    }
+    .ab-quote {
+        height: calc(50px - 8px*1.5);
+        width: calc(50px - 8px*1.5);
+        top: -25px;
+        left: calc(48px - 8px*3);
+    }
+    .user-name {
+        font-size: 15px;
+    }
+    .user-designation{
+        margin-top: 0;
+    }
+    .say-grid-item p{
+        font-size: 14px;
+    }
+    .banner-wave{
+        bottom: -7rem;
+        right: -7rem;
+    }
+    .chat {
+        right: calc(9rem - 1.5rem*4);
+        top: calc(18rem - 3rem*4);
+    }
+    .calender {
+        left: calc(9rem - 1.5rem*4);
+        bottom: calc(6rem - 1rem*4);
+    }
+}
+@media(max-width: 767px){
+    .credit-container {
+        padding: 0 12px;
+        margin: calc(96px - 16px*4) 0 calc(120px - 20px*4) 0;
+    }
+    .c-grid.one img {
+        width: 140px;
+    }
+    .cydr-content {
+        padding: 30px 20px;
+    }
+    .consult-your-dr img{
+        height: 350px;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+    .h-i-w-grid-wrapper{
+        display: block;
+    }
+    .h-w-ab{
+        display: none;
+    }
+    .h-i-w-grid{
+        max-width: fit-content;
+        text-align: center;
+        margin: auto;
+    }
+    .h-i-w-grid {
+        padding-left: 0;
+    }
+    .mob-loader{
+        height: 40px;
+        width: 1px;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border: 1px solid rgba(220, 217, 217,1);
+        outline-offset: -4px;
+        border-style: dashed;
+    }
+    .why-choose-grid-container {
+        margin-top: calc(75px - 12.5px*4);
+    }
+    .why-choose-grid-item {
+        padding: 15px 15px;
+        max-width: 210px;
+        margin-right: 20px;
+    }
+    .advantages-of-dr-visit {
+        padding: calc(93px - 15px*5) 4vw calc(100px - 15px*5) 4vw;
+    }
+    .advantages-of-dr-visit-grid-wrapper {
+        margin-top: calc(95px - 15px*4);
+    }
+    .advantages-of-dr-visit-grid {
+        padding: 20px 20px;
+    }
+    .advantages-of-dr-visit-grid h5{
+        max-width: 100%;
+    }
+    .what-people-say-slider-container {
+        padding: calc(38px - 6px*3) 0 0 0;
+    }
+    .what-people-say-container {
+        max-width: 80%;
+    }
+    .what-people-say-slider .owl-nav .owl-next, .what-people-say-slider .owl-nav .owl-prev{
+        top: 6rem;
+    }
+    .faqSection.get-dr-form .faqContainer{
+        padding: 0;
+    }
+    .get-dr-form .faqRow .contactForm .contact {
+        padding: 30px 35px 35px 35px;
+    }
+    .get-doctor-banner {
+        padding: 40px 20px 0 20px;
+    }
+}
+@media(max-width: 576px){
+    .credit-container ul{
+        flex-wrap: wrap;
+    }
+    .credit-container ul li:first-child,
+    .credit-container ul li:nth-child(2),
+    .credit-container ul li:nth-child(3),
+    .credit-container ul li:nth-child(4){
+        max-width: 50%;
+    }
+    .credit-container ul li:nth-child(even):after{
+        display: none;
+    }
+    .c-grid.two, .c-grid.one{
+        margin-bottom: 20px;
+    }
+    .c-grid.two img {
+        width: auto;
+    }
+    .c-grid.one img {
+        width: 165px;
+    }
+    .c-grid.two img {
+        width: 50px;
+    }
+    .c-grid.three img {
+        width: 60px;
+    }
+    .c-grid.four img {
+        width: 125px;
+    }
+    .why-choose-grid-container{
+        display: block;
+    }
+    .why-choose-grid-item{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .why-choose-grid-container .why-choose-grid-item:last-child{
+       margin: auto;
+    }
+    .what-we-offer-grid-wrapper .row [class*="col-"]:last-child{
+        margin-bottom: 20px;
+    }
+    .h-i-w-grid-wrapper {
+        padding-top: 20px;
+    }
+    .how-it-works {
+        padding: 30px 12px;
+    }
+    .why-choose{
+        padding: 30px 0;
+    }
+    .what-people-say-slider .owl-dots {
+        margin-top: 0;
+    }
+    .get-dr-form .faqRow .contactForm .contact {
+        padding: 20px 30px 30px 30px;
+    }
+    .what-we-offer-grid-wrapper .row [class*="col-"] {
+        padding: 0 25px;
+    }
+    .chat img, .calender img{
+        height: 22px;
+    }
+    .b-img{
+        width: auto !important;
+        height: 250px;
+    }
+}
+/*------------------- infograph start ------------*/
+@media(max-width: 1600px){
+    .infograph p{
+        font-size: 14px;
+    }
+    p.dubai-span{
+        font-size: 16px;
+    }
+    .infograph h4{
+        font-size: 40px;
+    }
+    .infograph::after{
+        border-top: 62px solid transparent;
+        border-left: 60px solid #0091D7;
+        border-bottom: 52px solid transparent;
+    }
+    .t7{
+        height: 114px;
+    }
+}
+@media(max-width: 1400px){
+    .infograph{
+        width: 290px;
+    }
+    .infograph p{
+        font-size: 13px;
+    }
+    p.dubai-span{
+        font-size: 15px;
+    }
+    .infograph h4{
+        font-size: 38px;
+    }
+    .infograph::after{
+        border-top: 62px solid transparent;
+        border-left: 50px solid #0091D7;
+        border-bottom: 48px solid transparent;
+        right: -50px;
+    }
+    .t7{
+        height: 110px;
+    }
+}
+@media(max-width: 414px){
+    .t7{
+        height: 102px;
+        width: 94px;
+    } 
+    .t7 img{
+        width: 38px;
+    }
+    .infograph{
+        padding-left: 95px;
+        max-width: 254px;
+        margin-top: 45px;
+    }
+    .infograph p {
+        font-size: 12px;
+    }
+    .infograph h4 {
+        font-size: 34px;
+    }
+    p.dubai-span {
+        font-size: 14px;
+    }
+    .triangle-right{
+        border-left: 76px solid #7C2155;
+    }
+    .infograph::after {
+        border-top: 50px solid transparent;
+        border-left: 40px solid #0091D7;
+        border-bottom: 50px solid transparent;
+        right: -40px;
+    }
+}
+
+/*------------------- infograph end ------------*/
+/*===================== Get doctor consultation end =====================*/
